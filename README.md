@@ -47,9 +47,8 @@
 </p>
 
 ---
-
-📊💖 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=rose_pine&hide_border=true" height="165" /> <img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=rose_pine&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=rose_pine&hide_border=true" /> </p>
+## 📊💖 GitHub Analytics
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=rose_pine" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=rose_pine" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=rose_pine" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyaa-sh28&theme=rose_pine" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navyaa-sh28&theme=rose_pine&utcOffset=5.5" /> </p>
 
 ---
 
