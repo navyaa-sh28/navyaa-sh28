@@ -1,54 +1,54 @@
 <!-- Header -->
 <h1 align="center" style="color:#ec4899;">
-  Hi 👋, I'm Navya Shukla
+  Hi 👋, I'm Navya Shukla 💖
 </h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer+in+Progress;Java+%7C+Cloud+%7C+Frontend;Always+Learning+New+Things" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+🎓;Full+Stack+Developer+in+Progress+💻;Java+%7C+Cloud+%7C+Frontend+☁️;Always+Learning+New+Things+🌸" 
     alt="Typing SVG" 
   />
 </p>
 
 ---
 
-## 👩‍💻 About Me  
+## 💖👩‍💻 About Me  
 
 🎓 **B.Tech Computer Science & Engineering Student** at **AKTU University College**  
 💻 Passionate about building scalable applications and continuously improving my skills  
 
-- 🌱 Currently learning **Java, Cloud Computing & Frontend Development**
-- 💡 Interested in **Full Stack Development**
-- ⚙️ Comfortable with **Java, C++, Web Technologies**
-- 📌 This GitHub profile reflects my learning journey and projects
+- 🌱 Currently learning **Java, Cloud Computing & Frontend Development** 🌸
+- 💡 Interested in **Full Stack Development** 💗
+- ⚙️ Comfortable with **Java, C++, Web Technologies** 🛠️
+- 📌 This GitHub profile reflects my learning journey and projects ✨
 
 ---
 
-## 🛠️ Tech Stack  
+## 💗🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,c" />
 </p>
 
-### 🌐 Frontend Development  
+### 🌸🌐 Frontend Development  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### 🧩 Backend & Databases  
+### 💾🧩 Backend & Databases  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-### ☁️ Cloud & Tools  
+### ☁️💗 Cloud & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,aws,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊💖 GitHub Analytics  
 
 <p align="center">
   <img 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 📈🌸 Contribution Graph  
 
 <p align="center">
   <img 
@@ -79,7 +79,7 @@
 
 ---
 
-## ✨ Beyond Code  
+## ✨💗 Beyond Code  
 
 - 💃 Dancing  
 - 📚 Reading Books  
@@ -87,7 +87,7 @@
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝💖 Let’s Connect  
 
 <p align="left">
   <a href="https://github.com/navyaa-sh28" target="_blank">
@@ -100,5 +100,5 @@
 ---
 
 <p align="center" style="color:#9f1239;">
-  ⭐ If you like my work, consider starring my repositories!
+  🌸⭐ If you like my work, consider starring my repositories! ⭐🌸
 </p>
