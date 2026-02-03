@@ -70,15 +70,8 @@
 
 ---
 
-## 🌸 Let’s Connect  
-
-<p align="left">
-  <a href="https://github.com/navyaa-sh28" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-ec4899?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-</p>
+## 🌸 Let’s Connect
+<p align="left"> <a href="https://github.com/navyaa-sh28" target="_blank"> <img src="https://img.shields.io/badge/GitHub-ec4899?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/navya-shukla-94565b356" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-f472b6?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/navya_shukla45/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-f9a8d4?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://www.codechef.com/users/rapid_truth_18" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-fbcfe8?style=for-the-badge&logo=codechef&logoColor=5b2c06" /> </a> <a href="https://www.geeksforgeeks.org/profile/navyaashuwavk" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-fce7f3?style=for-the-badge&logo=geeksforgeeks&logoColor=166534" /> </a> </p>
 
 ---
 
