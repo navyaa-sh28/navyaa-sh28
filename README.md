@@ -48,24 +48,32 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊💖 GitHub Analytics  
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=rose_pine&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"
     height="165"
+    alt="GitHub Stats"
   />
+
+  <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=navyaa-sh28&theme=rose_pine&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=rose_pine&hide_border=true"
     height="165"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=rose_pine&hide_border=true"
+    alt="Top Languages"
   />
 </p>
+>
 
 ---
 
