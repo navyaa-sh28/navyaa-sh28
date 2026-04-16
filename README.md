@@ -1,11 +1,11 @@
 <!-- Header -->
-<h1 align="center" style="color:#374151;">
+<h1 align="center" style="color:#5C4033;">
   Hi 👋, I'm Navya Shukla
 </h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=6B7280&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer+in+Progress;Java+%7C+DSA+%7C+Frontend;Always+Learning+New+Things" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=7A5C4D&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer+in+Progress;Java+%7C+DSA+%7C+Frontend;Always+Learning+New+Things" 
     alt="Typing SVG" 
   />
 </p>
@@ -70,7 +70,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=navyaa-sh28&bg_color=f9fafb&color=6b7280&line=9ca3af&point=4b5563&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=navyaa-sh28&bg_color=FAF3E0&color=7A5C4D&line=A47551&point=5C4033&area=true&hide_border=true" 
   />
 </p>
 
@@ -80,7 +80,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=default&hide_border=true&background=f9fafb&ring=6b7280&fire=9ca3af&currStreakLabel=374151" 
+    src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=default&hide_border=true&background=FAF3E0&ring=7A5C4D&fire=A47551&currStreakLabel=5C4033" 
   />
 </p>
 
@@ -106,24 +106,24 @@
 
 <p align="center">
   <a href="https://github.com/navyaa-sh28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-5C4033?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/navya-shukla-94565b356" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6b7280?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7A5C4D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/navya_shukla45/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-9ca3af?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-A47551?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/rapid_truth_18" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-4b5563?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-8B5E3C?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/navyaashuwavk" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-6b7280?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-6F4E37?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center" style="color:#6b7280;">
+<p align="center" style="color:#7A5C4D;">
   If you like my work, consider starring my repositories!
 </p>
