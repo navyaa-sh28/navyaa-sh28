@@ -3,13 +3,6 @@
   Hi 👋, I'm Navya Shukla
 </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=7A5C4D&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer+in+Progress;Java+%7C+DSA+%7C+Frontend;Always+Learning+New+Things" 
-    alt="Typing SVG" 
-  />
-</p>
-
 ---
 
 ## 👩‍💻 About Me  
@@ -51,17 +44,17 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyaa-sh28&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navyaa-sh28&theme=default&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navyaa-sh28&theme=default&bg_color=FAF3E0&utcOffset=5.5" />
 </p>
 
 ---
