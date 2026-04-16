@@ -44,17 +44,11 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&bg_color=FAF3E0&title_color=5C4033&text_color=7A5C4D&icon_color=A47551&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyaa-sh28&theme=default&bg_color=FAF3E0" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navyaa-sh28&theme=default&bg_color=FAF3E0&utcOffset=5.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&bg_color=FAF3E0&title_color=5C4033&text_color=7A5C4D&hide_border=true" />
 </p>
 
 ---
