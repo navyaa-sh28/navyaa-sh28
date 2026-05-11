@@ -34,11 +34,6 @@ Become a skilled Full Stack Developer and build impactful real-world application
 Git & GitHub • Responsive Design • APIs • Team Collaboration • Debugging  
 
 </td>
-<td>
-
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/>
-
-</td>
 </tr>
 </table>
 
@@ -62,6 +57,9 @@ A clean and responsive task management web app to organize daily activities effi
 ### 🛠️ Tech Used
 HTML • CSS • JavaScript • React
 
+🔗 **Project Link**  
+[ToDo Flow Repository](https://github.com/navyaa-sh28)
+
 </td>
 
 <td width="50%">
@@ -77,6 +75,9 @@ A modern restaurant/food ordering website with elegant UI and responsive layouts
 
 ### 🛠️ Tech Used
 HTML • CSS • JavaScript • Bootstrap
+
+🔗 **Project Link**  
+[Velvet Spoon Repository](https://github.com/navyaa-sh28)
 
 </td>
 </tr>
