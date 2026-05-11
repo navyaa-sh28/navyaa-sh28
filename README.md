@@ -1,40 +1,39 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Navya+Shukla;B.Tech+CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Navya+Shukla;B.Tech+CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+✨" />
 </h1>
 
-<h3 align="center">✨ Building • Learning • Growing ✨</h3>
+<h3 align="center">🌙 Code • Create • Grow 🚀</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=120&section=header"/>
 
 ---
 
-<!-- Flowy Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=120&section=header"/>
-
 # 👩‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="girl coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 🎓 B.Tech Computer Science & Engineering Student  
 🏫 AKTU University College  
 
-💡 Passionate about Full Stack Development & Problem Solving  
+💡 Passionate about Development & Problem Solving  
 
 🌱 Currently Learning:
 - Java & DSA
-- React & Frontend Development
-- Backend Development
+- Frontend Development
+- Backend Technologies
 
-⚡ Tech Interests:
-- Web Development
+⚡ Interested In:
+- Full Stack Development
 - Scalable Applications
-- Open Source
+- Open Source Projects
 
 🎯 Goal:
-> To become a skilled Full Stack Developer and build impactful projects.
+> Becoming a skilled developer through consistency and real-world projects.
 
 ---
 
-# 🌌 Tech Universe
+# 🌌 Tech Stack
 
 <div align="center">
 
@@ -47,7 +46,7 @@
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 </div>
@@ -58,19 +57,19 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -86,14 +85,24 @@
 
 ---
 
-# 🧠 DSA Journey
-
-<div align="center">
+# 🌟 Current Focus
 
 ```mermaid
-flowchart LR
-    A[Learn Concepts] --> B[Practice Problems]
-    B --> C[Pattern Recognition]
-    C --> D[Contest Practice]
-    D --> E[Consistency]
-    E --> F[Growth 🚀]
+mindmap
+  root((Navya 🚀))
+    DSA
+      Arrays
+      Trees
+      Graphs
+    Development
+      Frontend
+      Backend
+      APIs
+    Learning
+      Java
+      React
+      NodeJS
+    Goals
+      Open Source
+      Full Stack
+      Projects
