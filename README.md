@@ -1,116 +1,99 @@
-<!-- Header -->
-<h1 align="center" style="color:#5C4033;">
-  Hi 👋, I'm Navya Shukla
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Navya+Shukla;B.Tech+CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
 </h1>
 
----
-
-## 👩‍💻 About Me  
-
-🎓 **B.Tech Computer Science & Engineering Student** at **AKTU University College**  
-💻 Passionate about building scalable applications and continuously improving my skills  
-
-- 🌱 Currently learning **Java, Data Structures & Algorithms, and Frontend Development**
-- 💡 Interested in **Full Stack Development**
-- ⚙️ Comfortable with **Java, C++, Web Technologies**
-- 📌 This GitHub profile reflects my learning journey and projects
+<h3 align="center">✨ Building • Learning • Growing ✨</h3>
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- Flowy Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=120&section=header"/>
 
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,c" />
-</p>
+# 👩‍💻 About Me
 
-### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🧩 Backend & Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
+🎓 B.Tech Computer Science & Engineering Student  
+🏫 AKTU University College  
 
-### ⚙️ Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
+💡 Passionate about Full Stack Development & Problem Solving  
 
----
+🌱 Currently Learning:
+- Java & DSA
+- React & Frontend Development
+- Backend Development
 
-## 📊 GitHub Analytics  
+⚡ Tech Interests:
+- Web Development
+- Scalable Applications
+- Open Source
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&bg_color=FAF3E0&title_color=5C4033&text_color=7A5C4D&icon_color=A47551&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&bg_color=FAF3E0&title_color=5C4033&text_color=7A5C4D&hide_border=true" />
-</p>
+🎯 Goal:
+> To become a skilled Full Stack Developer and build impactful projects.
 
 ---
 
-## 📈 Contribution Graph  
+# 🌌 Tech Universe
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=navyaa-sh28&bg_color=FAF3E0&color=7A5C4D&line=A47551&point=5C4033&area=true&hide_border=true" 
-  />
-</p>
+<div align="center">
 
----
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark" />
 
-## 🔥 Coding Streak  
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=default&hide_border=true&background=FAF3E0&ring=7A5C4D&fire=A47551&currStreakLabel=5C4033" 
-  />
-</p>
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
----
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
-## 🧠 DSA Progress  
-
-- 📌 Solving problems regularly on **LeetCode, CodeChef, and GeeksforGeeks**  
-- 🎯 Focus: **Consistency, Patterns, and Problem Solving**  
-- 🔥 Streak updates automatically above  
+</div>
 
 ---
 
-## ✨ Beyond Code  
+# 📊 GitHub Analytics
 
-- 💃 Dancing  
-- 📚 Reading Books  
-- ✈️ Travelling & exploring new places  
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=FFFFFF"/>
 
-## 🌐 Let’s Connect  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
 
-<p align="center">
-  <a href="https://github.com/navyaa-sh28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-5C4033?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/navya-shukla-94565b356" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7A5C4D?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/navya_shukla45/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-A47551?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/rapid_truth_18" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-8B5E3C?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/navyaashuwavk" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-6F4E37?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center" style="color:#7A5C4D;">
-  If you like my work, consider starring my repositories!
-</p>
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyaa-sh28&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🧠 DSA Journey
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[Learn Concepts] --> B[Practice Problems]
+    B --> C[Pattern Recognition]
+    C --> D[Contest Practice]
+    D --> E[Consistency]
+    E --> F[Growth 🚀]
