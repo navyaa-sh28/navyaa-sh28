@@ -11,42 +11,76 @@
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering Student  
-🏫 AKTU University College  
+<table>
+<tr>
+<td>
 
-💡 Passionate about Software Development, Problem Solving & Continuous Learning  
+🎓 **Education**  
+B.Tech Computer Science & Engineering Student at AKTU University College  
 
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- Frontend Web Development
-- Backend Development
-- REST APIs & Databases
+💡 **Interests**  
+Full Stack Development • DSA • Problem Solving • Open Source  
 
-⚡ Interested In:
-- Full Stack Development
-- Scalable Applications
-- Open Source Projects
-- UI/UX Design
-- Competitive Programming
+🌱 **Currently Learning**  
+Java • Data Structures & Algorithms • React • Backend Development  
 
-🎯 Current Focus:
-- Solving DSA problems daily
-- Strengthening problem-solving skills
-- Building responsive web applications
-- Improving development fundamentals
+⚡ **Current Focus**  
+Building Projects • Improving Problem Solving • Learning Web Development  
 
-🚀 Goals:
-- Become a skilled Full Stack Developer
-- Build impactful real-world projects
-- Contribute to Open Source
-- Improve coding consistency & logic building
+🚀 **Goals**  
+Become a skilled Full Stack Developer and build impactful real-world applications  
 
-📚 Additional Skills:
-- Team Collaboration
-- Debugging & Optimization
-- Git & Version Control
-- Responsive Design
-- Analytical Thinking
+📚 **Additional Skills**  
+Git & GitHub • Responsive Design • APIs • Team Collaboration • Debugging  
+
+</td>
+<td>
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📝 ToDo Flow
+A clean and responsive task management web app to organize daily activities efficiently.
+
+### 🔹 Features
+- Add & delete tasks
+- Mark tasks as completed
+- Responsive UI
+- Clean design
+
+### 🛠️ Tech Used
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td width="50%">
+
+## 🍴 Velvet Spoon
+A modern restaurant/food ordering website with elegant UI and responsive layouts.
+
+### 🔹 Features
+- Beautiful landing page
+- Responsive design
+- Interactive sections
+- Smooth navigation
+
+### 🛠️ Tech Used
+HTML • CSS • JavaScript • Bootstrap
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -137,6 +171,7 @@ mindmap
 - 📌 Building projects to improve practical development skills  
 - 📌 Exploring modern frontend & backend technologies  
 - 📌 Learning clean code practices and optimization techniques  
+- 📌 Practicing consistency and logical thinking daily  
 
 ---
 
