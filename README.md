@@ -1,9 +1,9 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Navya+Shukla;B.Tech+CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Navya+Shukla;💻+Full+Stack+Developer;🌸+B.Tech+CSE+Student;🚀+DSA+Enthusiast;✨+Always+Learning+New+Things" />
 </h1>
 
-<h3 align="center">🌙 Code • Create • Grow 🚀</h3>
+<h3 align="center">🌙 Code • Create • Learn • Grow 🚀</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=120&section=header"/>
 
@@ -11,31 +11,41 @@
 
 # 👩‍💻 About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td>
+<td align="center">
 
-🎓 **Education**  
-B.Tech Computer Science & Engineering Student at AKTU University College  
+🎓 **B.Tech Computer Science & Engineering Student**  
+🏫 AKTU University College  
 
-💡 **Interests**  
-Full Stack Development • DSA • Problem Solving • Open Source  
+💡 Passionate about **Full Stack Development** & **Problem Solving**  
 
-🌱 **Currently Learning**  
-Java • Data Structures & Algorithms • React • Backend Development  
+🌱 Currently Learning  
+☕ Java • 🧠 DSA • ⚛️ React • 🌐 Web Development  
 
-⚡ **Current Focus**  
-Building Projects • Improving Problem Solving • Learning Web Development  
+⚡ Current Focus  
+🚀 Building Projects • 💻 Improving Coding Skills  
+📚 Learning Modern Web Technologies  
 
-🚀 **Goals**  
-Become a skilled Full Stack Developer and build impactful real-world applications  
+🎯 Goals  
+✨ Become a Skilled Full Stack Developer  
+🌍 Build Real-World Projects  
+🤝 Contribute to Open Source  
 
-📚 **Additional Skills**  
-Git & GitHub • Responsive Design • APIs • Team Collaboration • Debugging  
+📚 Additional Skills  
+🔹 Git & GitHub  
+🔹 Responsive Design  
+🔹 APIs & Databases  
+🔹 Team Collaboration  
+🔹 Debugging & Optimization  
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -43,43 +53,47 @@ Git & GitHub • Responsive Design • APIs • Team Collaboration • Debugging
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 📝 ToDo Flow
-A clean and responsive task management web app to organize daily activities efficiently.
+
+✨ A clean and responsive task management web app to organize daily activities efficiently.
 
 ### 🔹 Features
-- Add & delete tasks
-- Mark tasks as completed
-- Responsive UI
-- Clean design
+✅ Add & Delete Tasks  
+✅ Mark Tasks as Completed  
+✅ Responsive UI  
+✅ Clean & Modern Design  
 
 ### 🛠️ Tech Used
-HTML • CSS • JavaScript • React
+🌐 HTML • 🎨 CSS • ⚡ JavaScript • ⚛️ React
 
 🔗 **Project Link**  
-[ToDo Flow Repository](https://github.com/navyaa-sh28)
+[🚀 ToDo Flow Repository](https://github.com/navyaa-sh28)
 
 </td>
 
 <td width="50%">
 
 ## 🍴 Velvet Spoon
-A modern restaurant/food ordering website with elegant UI and responsive layouts.
+
+✨ A modern restaurant & food ordering website with elegant UI and responsive layouts.
 
 ### 🔹 Features
-- Beautiful landing page
-- Responsive design
-- Interactive sections
-- Smooth navigation
+✅ Beautiful Landing Page  
+✅ Responsive Design  
+✅ Interactive Sections  
+✅ Smooth Navigation  
 
 ### 🛠️ Tech Used
-HTML • CSS • JavaScript • Bootstrap
+🌐 HTML • 🎨 CSS • ⚡ JavaScript • 🅱️ Bootstrap
 
 🔗 **Project Link**  
-[Velvet Spoon Repository](https://github.com/navyaa-sh28)
+[🚀 Velvet Spoon Repository](https://github.com/navyaa-sh28)
 
 </td>
+
 </tr>
 </table>
 
@@ -142,23 +156,23 @@ HTML • CSS • JavaScript • Bootstrap
 ```mermaid
 mindmap
   root((Navya 🚀))
-    DSA
+    🧠 DSA
       Arrays
       Linked List
       Trees
       Graphs
       Recursion
-    Web Development
+    🌐 Web Development
       HTML
       CSS
       JavaScript
       React
       NodeJS
-    Learning
+    📚 Learning
       APIs
       Databases
       Problem Solving
-    Goals
+    🎯 Goals
       Full Stack
       Open Source
       Projects
@@ -168,11 +182,11 @@ mindmap
 
 # 🧠 Coding Journey
 
-- 📌 Solving problems regularly on LeetCode, CodeChef & GeeksforGeeks  
-- 📌 Building projects to improve practical development skills  
-- 📌 Exploring modern frontend & backend technologies  
-- 📌 Learning clean code practices and optimization techniques  
-- 📌 Practicing consistency and logical thinking daily  
+📌 Solving problems regularly on **LeetCode, CodeChef & GeeksforGeeks**  
+📌 Building projects to improve practical development skills  
+📌 Exploring modern frontend & backend technologies  
+📌 Learning clean code practices & optimization techniques  
+📌 Practicing consistency and logical thinking daily 🚀  
 
 ---
 
@@ -183,6 +197,7 @@ mindmap
 ✈️ Travelling & Exploring  
 🎵 Music & Creativity  
 ☕ Late Night Coding Sessions  
+🌸 Learning New Things Everyday  
 
 ---
 
