@@ -69,7 +69,7 @@
 ### 🛠️ Tech Used
 🌐 HTML • 🎨 CSS • ⚡ JavaScript • ⚛️ React
 
-🔗 <a href="https://github.com/navyaa-sh28/ToDo-Flow" target="_blank">🚀 View ToDo Flow Repository</a>
+🔗 <a href="https://github.com/navyaa-sh28/TodoFlow" target="_blank">🚀 View ToDo Flow Repository</a>
 
 </td>
 
@@ -88,7 +88,7 @@
 ### 🛠️ Tech Used
 🌐 HTML • 🎨 CSS • ⚡ JavaScript • 🅱️ Bootstrap
 
-🔗 <a href="https://github.com/navyaa-sh28/Velvet-Spoon" target="_blank">🚀 View Velvet Spoon Repository</a>
+🔗 <a href="https://github.com/navyaa-sh28/velvetspoon-" target="_blank">🚀 View Velvet Spoon Repository</a>
 
 </td>
 
