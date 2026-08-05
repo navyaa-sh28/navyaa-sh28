@@ -121,9 +121,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyaa-sh28&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=tokyonight" />
 
 </div>
 
@@ -133,9 +133,21 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-readme-streak-stats-eight.vercel.app/?user=navyaa-sh28&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=navyaa-sh28&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+</div>
+
+---
 
 # 🌟 Current Focus
 
