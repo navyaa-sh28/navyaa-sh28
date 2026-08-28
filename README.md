@@ -195,7 +195,7 @@ mindmap
 ✈️ Travelling & Exploring  
 🎵 Music & Creativity  
 ☕ Late Night Coding Sessions  
-🌸 Learning New Things Everyday  
+💥 Learning New Things Everyday  
 
 ---
 
