@@ -184,6 +184,8 @@ For now, my priority is building strong foundations in **computer science, progr
 
 A responsive task-management application focused on simplicity and usability.
 
+<br>
+
 **Built with**
 
 `HTML` `CSS` `JavaScript` `React`
@@ -201,6 +203,8 @@ A responsive task-management application focused on simplicity and usability.
 ### 🍴 Velvet Spoon
 
 A modern restaurant website designed around responsive layouts and an elegant user experience.
+
+<br>
 
 **Built with**
 
@@ -426,16 +430,44 @@ AI Applications
 # 📊 GitHub Analytics
 
 <p align="center">
-  <i>A small snapshot of my coding journey and consistency.</i>
+  <i>A snapshot of my GitHub activity, repositories, and coding journey.</i>
 </p>
 
 <br>
+
+<!-- Main GitHub Stats -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78" width="75%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=2B1B14&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&ring_color=C19A6B&cache_seconds=1800" width="70%"/>
+
 </p>
 
 <br>
+
+<!-- Language Analytics -->
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=donut&langs_count=6&hide_border=true&bg_color=2B1B14&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&cache_seconds=1800" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&langs_count=8&hide_border=true&bg_color=2B1B14&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&cache_seconds=1800" width="48%"/>
+
+</p>
+
+<br>
+
+<!-- Streak -->
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78" width="75%"/>
+
+</p>
+
+<br>
+
+<!-- GitHub Quick Stats -->
 
 <p align="center">
 
@@ -449,41 +481,15 @@ AI Applications
 
 ---
 
-# 🏅 GitHub Highlights
+# 🏆 GitHub Profile Highlights
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=650&lines=Code+consistently+%E2%80%A2+Learn+continuously+%E2%80%A2+Build+purposefully"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=navyaa-sh28&repo=TodoFlow&hide_border=true&bg_color=2B1B14&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&cache_seconds=1800" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=navyaa-sh28&repo=velvetspoon-&hide_border=true&bg_color=2B1B14&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&cache_seconds=1800" width="48%"/>
+
 </p>
-
-<table align="center">
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 Code
-
-Building projects and solving problems to strengthen practical skills.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📚 Learn
-
-Continuously exploring new concepts across software, AI, and data.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Grow
-
-Turning experiments and challenges into better engineering habits.
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -628,7 +634,7 @@ And sometimes, break it first. 😄
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&pause=1200&color=C19A6B&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%E2%98%95;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Exploring"/>
-  
+
 </p>
 
 <p align="center">
