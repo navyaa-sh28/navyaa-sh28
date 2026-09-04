@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=25&pause=1000&color=C19A6B&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;C%2B%2B+%7C+Python+%7C+AI%2FML;Data+Analysis+%7C+Full-Stack+Development;DSA+%7C+Problem+Solving+%7C+Building;Curious+Mind+%7C+Constant+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=25&pause=1000&color=C19A6B&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;C%2B%2B+%7C+Python+%7C+AI%2FML;Data+Analysis+%7C+Full-Stack+Development;DSA+%7C+Problem+Solving+%7C+Building;Curious+Mind+%7C+Constant+Learner"/>
 </p>
 
 <p align="center">
@@ -18,40 +18,38 @@
 
 ---
 
-# ☕ About Me
+# 👩🏻‍💻 About Me
 
-I'm a **Computer Science undergraduate** with a strong interest in **Artificial Intelligence, software development, data, and problem solving**.
+I'm a **Computer Science undergraduate** with a strong pull toward problems at the intersection of **Artificial Intelligence, software development, data, and problem solving**.
 
-I'm drawn to problems where technology has to turn information into something useful — whether that's a machine learning model finding patterns in data, a software system solving a practical problem, or an algorithm finding an efficient solution.
+I'm drawn to spaces where information has to be turned into something meaningful — whether that's a model identifying patterns in data, an algorithm finding an efficient solution, or a software system turning an idea into something people can actually use.
 
-I'm currently building depth in **C++, Python, JavaScript, AI/ML, Data Analysis, and full-stack development**, while strengthening the computer science fundamentals that sit underneath all of them.
+I'm currently building depth in **C++, Python, JavaScript, AI/ML, Data Analysis, and full-stack development**, while strengthening the computer science fundamentals that support all of them.
 
-Competitive programming is an important part of that journey. Solving problems regularly helps me improve my ability to **break down unfamiliar problems, recognize patterns, reason about complexity, and write efficient solutions**.
+Competitive programming keeps me sharp on those fundamentals. I regularly practice problems on **LeetCode, GeeksforGeeks, and CodeChef** to improve my ability to break down unfamiliar problems, recognize patterns, reason about complexity, and write efficient solutions.
 
-At the same time, I enjoy building projects because concepts become much more meaningful when they turn into something people can actually use.
+At the same time, I learn best by **building**. Projects and hackathons give me a chance to take concepts beyond tutorials and turn them into working systems while learning how to deal with bugs, constraints, imperfect ideas, and real implementation decisions.
 
-I'm particularly interested in the intersection of **AI, data, and real-world systems** — especially problems where data is messy, changing, or difficult to interpret.
+I'm particularly interested in the intersection of **AI and real-world systems** — especially problems where data is noisy, changing, or difficult to interpret.
 
-I'm also gradually exploring **space technology** and the possibilities at the intersection of computing, AI, data, and scientific systems. I'm still learning about the field, but the scale and precision of its problems make it an area I'd like to understand more deeply.
+I'm also gradually exploring **space technology** and the possibilities created when computing, AI, and data meet scientific and engineering problems. I'm still building my understanding of the domain, but areas such as forecasting, remote sensing, scientific data analysis, and intelligent systems genuinely interest me.
 
-I learn best by **building and experimenting** through projects, hackathons, competitive programming, technical communities, and independent exploration.
+My goal isn't to learn every technology at once. It's to build strong fundamentals, develop practical skills, and gradually work toward solving increasingly meaningful problems.
 
 ---
 
-# 🧭 What Drives My Curiosity
+# 🧭 Areas I'm Exploring
 
 <table align="center">
 <tr>
 
 <td width="33%" valign="top" align="center">
 
-## 🧠 Artificial Intelligence
+<h3>🧠 Artificial Intelligence</h3>
 
-Exploring how AI and machine learning can move from theory into practical systems.
+Exploring how machine learning and AI can turn data into useful predictions, patterns, and decisions.
 
-<br>
-
-**Interested in**
+<br><br>
 
 Machine Learning  
 Data Processing  
@@ -64,16 +62,14 @@ Intelligent Systems
 
 <td width="33%" valign="top" align="center">
 
-## 💻 Software Development
+<h3>💻 Software Development</h3>
 
-Turning ideas into applications that are practical, responsive, and easy to use.
+Building applications while learning how good software is designed, structured, and maintained.
 
-<br>
-
-**Interested in**
+<br><br>
 
 Frontend Development  
-Full-Stack Applications  
+Full-Stack Development  
 APIs  
 Databases  
 UI/UX  
@@ -83,13 +79,11 @@ Clean Code
 
 <td width="33%" valign="top" align="center">
 
-## 📊 Data & Analysis
+<h3>📊 Data & Analysis</h3>
 
-Learning how to transform raw data into meaningful information and insights.
+Learning how raw information can be cleaned, explored, visualized, and transformed into useful insights.
 
-<br>
-
-**Interested in**
+<br><br>
 
 Data Cleaning  
 Exploratory Analysis  
@@ -106,7 +100,7 @@ Data-driven Decisions
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1200&color=A67C52&center=true&vCenter=true&width=700&lines=Curiosity+%E2%86%92+Experimentation+%E2%86%92+Understanding+%E2%86%92+Building"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1200&color=A67C52&center=true&vCenter=true&width=750&lines=Curiosity+%E2%86%92+Experimentation+%E2%86%92+Understanding+%E2%86%92+Building"/>
 </p>
 
 ---
@@ -115,15 +109,21 @@ Data-driven Decisions
 
 Space technology is an area I'm **gradually exploring alongside my computer science journey**.
 
-What interests me is the combination of:
+What interests me most is the combination of:
 
 <p align="center">
 
-### 💻 Computer Science &nbsp; + &nbsp; 🧠 AI &nbsp; + &nbsp; 📊 Data &nbsp; + &nbsp; 🚀 Space
+<b>💻 Computer Science</b>
+&nbsp; + &nbsp;
+<b>🧠 AI</b>
+&nbsp; + &nbsp;
+<b>📊 Data</b>
+&nbsp; + &nbsp;
+<b>🚀 Space</b>
 
 </p>
 
-I'm curious about how computational techniques can help with problems such as:
+I'm curious about how computational techniques can contribute to areas such as:
 
 🚀 Space data analysis  
 🛰️ Remote sensing  
@@ -133,7 +133,7 @@ I'm curious about how computational techniques can help with problems such as:
 ⚠️ Anomaly detection  
 🤖 AI-assisted systems
 
-For now, I'm focusing on building strong foundations in **programming, algorithms, AI, and data analysis** while gradually learning more about the space domain.
+For now, I'm focusing on building strong foundations in **programming, algorithms, AI, and data analysis**, while gradually learning more about the problems and technologies involved in space systems.
 
 ---
 
@@ -141,39 +141,38 @@ For now, I'm focusing on building strong foundations in **programming, algorithm
 
 <div align="center">
 
-### 💻 Programming
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark"/>
 
 <br><br>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express&theme=dark"/>
 
 <br><br>
 
 ### 🧠 AI / ML & Data
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
 <br>
 
-<img src="https://img.shields.io/badge/Machine_Learning-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
-<img src="https://img.shields.io/badge/Data_Analysis-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
-<img src="https://img.shields.io/badge/Data_Visualization-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
+<img src="https://img.shields.io/badge/Python-3B2418?style=for-the-badge&logo=python&logoColor=F5E6D3"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
 
 <br><br>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
 
 <br><br>
 
-### ⚙️ Tools
+### ⚙️ Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm&theme=dark"/>
 
 </div>
 
@@ -184,11 +183,11 @@ For now, I'm focusing on building strong foundations in **programming, algorithm
 <table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3>📝 ToDo Flow</h3>
 
-A responsive task-management application designed around simplicity and usability.
+A clean task-management application focused on simplicity, responsiveness, and usability.
 
 <br>
 
@@ -204,11 +203,11 @@ A responsive task-management application designed around simplicity and usabilit
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3>🍴 Velvet Spoon</h3>
 
-A modern restaurant website focused on responsive design and an elegant user experience.
+A responsive restaurant website focused on visual design, layout, and user experience.
 
 <br>
 
@@ -232,17 +231,18 @@ A modern restaurant website focused on responsive design and an elegant user exp
 # 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Optimize;One+Problem+at+a+Time+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=750&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Optimize;One+Problem+at+a+Time+%F0%9F%9A%80"/>
 </p>
 
-Problem solving is one of the ways I strengthen my computer science fundamentals.
+Problem solving is one of the ways I strengthen my **computer science fundamentals**.
 
-I regularly practice on competitive programming platforms to improve my understanding of:
+I practice regularly to improve:
 
 `Data Structures`  
 `Algorithms`  
 `Complexity Analysis`  
 `Pattern Recognition`  
+`Logical Reasoning`  
 `Problem Solving`
 
 <br>
@@ -271,7 +271,7 @@ I regularly practice on competitive programming platforms to improve my understa
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=750&lines=Learning+by+Building+%E2%80%A2+Improving+by+Solving+%E2%80%A2+Growing+through+Experience"/>
 </p>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
 <td width="50%" align="center" valign="middle">
@@ -294,7 +294,7 @@ Data Structures
 Algorithms  
 Competitive Programming  
 Problem Solving  
-Complexity
+Complexity Analysis
 
 </td>
 
@@ -330,38 +330,13 @@ Data-driven Insights
 
 ---
 
-# 🧩 How I Like to Learn
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=A67C52&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"/>
-</p>
-
-I learn best when I can **build something with what I'm learning**.
-
-Instead of stopping at syntax, I like to understand:
-
-> **Why does it work?**  
-> **Why does it fail?**  
-> **Can I solve it differently?**  
-> **Can I make it more efficient?**
-
-That mindset has pushed me toward projects, competitive programming, hackathons, technical communities, and independent exploration.
-
-Every bug becomes a question.
-
-Every difficult problem becomes something to understand.
-
-Every project becomes an opportunity to improve.
-
----
-
 # 🎯 My Current Direction
 
 <p align="center">
   <i>Building strong foundations while gradually connecting the areas I'm interested in.</i>
 </p>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
 <td width="33%" align="center" valign="middle">
@@ -406,71 +381,96 @@ AI Applications
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=750&lines=Strong+Fundamentals+%E2%86%92+Practical+Skills+%E2%86%92+Real-World+Problems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=800&lines=Strong+Fundamentals+%E2%86%92+Practical+Skills+%E2%86%92+Real-World+Problems"/>
 </p>
+
+---
+
+# 🧩 How I Learn
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=900&color=A67C52&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"/>
+</p>
+
+I learn best when I can **build something with what I'm learning**.
+
+Instead of stopping at syntax, I like understanding:
+
+> **Why does it work?**  
+> **Why does it fail?**  
+> **Can I solve it differently?**  
+> **Can I make it more efficient?**
+
+Projects, hackathons, competitive programming, and independent exploration help me turn concepts into practical understanding.
+
+Every bug becomes a question.
+
+Every difficult problem becomes something to understand.
+
+Every project becomes an opportunity to improve.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <i>A snapshot of my GitHub activity, repositories, coding consistency, and languages.</i>
+  <i>A snapshot of my GitHub activity, repositories, coding journey, and languages.</i>
 </p>
 
 <br>
 
-<!-- GitHub Profile Summary -->
+<!-- ====================================================== -->
+<!--                  PROFILE DETAILS                       -->
+<!-- ====================================================== -->
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=monokai"
-    width="95%"
+    width="92%"
   />
 </p>
 
 <br>
 
-<!-- Language Analytics -->
+<!-- ====================================================== -->
+<!--              LANGUAGE CARDS SIDE BY SIDE              -->
+<!-- ====================================================== -->
 
-<p align="center">
+<table align="center" width="88%">
+<tr>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=monokai"
-    width="47%"
-  />
+<td align="center" width="50%">
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=monokai"
-    width="47%"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=monokai"
+  width="90%"
+/>
 
-</p>
+</td>
+
+<td align="center" width="50%">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=monokai"
+  width="90%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<!-- GitHub Streak -->
+<!-- ====================================================== -->
+<!--                    GITHUB STREAK                      -->
+<!-- ====================================================== -->
 
 <p align="center">
-
   <img
     src="https://streak-stats.demolab.com/?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78&currStreakNum=F5E6D3&sideNums=F5E6D3"
-    width="78%"
+    width="75%"
   />
-
-</p>
-
-<br>
-
-<!-- GitHub Badges -->
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/navyaa-sh28?style=for-the-badge&label=FOLLOWERS&labelColor=3B2418&color=8B5E3C&logo=github&logoColor=F5E6D3"/>
-
-<img src="https://img.shields.io/github/stars/navyaa-sh28?style=for-the-badge&label=TOTAL%20STARS&labelColor=3B2418&color=8B5E3C&logo=github&logoColor=F5E6D3"/>
-
-<img src="https://img.shields.io/github/commit-activity/y/navyaa-sh28?style=for-the-badge&label=COMMIT%20ACTIVITY&labelColor=3B2418&color=8B5E3C&logo=git&logoColor=F5E6D3"/>
-
 </p>
 
 ---
@@ -483,7 +483,7 @@ AI Applications
   />
 </p>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
 <td width="33%" align="center" valign="top">
@@ -495,13 +495,17 @@ Building practical applications and experimenting with different technologies.
 <br><br>
 
 <a href="https://github.com/navyaa-sh28/TodoFlow">
-<img src="https://img.shields.io/badge/TodoFlow-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
+<img
+  src="https://img.shields.io/badge/TodoFlow-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"
+/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/navyaa-sh28/velvetspoon-">
-<img src="https://img.shields.io/badge/Velvet%20Spoon-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
+<img
+  src="https://img.shields.io/badge/Velvet_Spoon-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"
+/>
 </a>
 
 </td>
@@ -510,11 +514,13 @@ Building practical applications and experimenting with different technologies.
 
 <h3>🧠 Problem Solving</h3>
 
-Strengthening algorithms, data structures, logical reasoning, and complexity analysis through regular practice.
+Regularly practicing algorithms and data structures to improve logical thinking, efficiency, and coding precision.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DSA-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
+<img
+  src="https://img.shields.io/badge/DSA-3B2418?style=for-the-badge&logoColor=F5E6D3"
+/>
 
 </td>
 
@@ -522,11 +528,13 @@ Strengthening algorithms, data structures, logical reasoning, and complexity ana
 
 <h3>📚 Continuous Learning</h3>
 
-Exploring AI/ML, Python, C++, data analysis, full-stack development, and space technology.
+Exploring Python, C++, AI/ML, data analysis, full-stack development, and the intersection of computing with space technology.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Always%20Learning-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
+<img
+  src="https://img.shields.io/badge/LEARNING-3B2418?style=for-the-badge&logoColor=F5E6D3"
+/>
 
 </td>
 
@@ -537,7 +545,7 @@ Exploring AI/ML, Python, C++, data analysis, full-stack development, and space t
 
 # 📚 My Development Journey
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
 <td width="25%" align="center" valign="middle">
@@ -546,7 +554,9 @@ Exploring AI/ML, Python, C++, data analysis, full-stack development, and space t
 
 🧠
 
-**LEARN**
+<b>LEARN</b>
+
+<br>
 
 Understand the fundamentals.
 
@@ -558,7 +568,9 @@ Understand the fundamentals.
 
 🔨
 
-**BUILD**
+<b>BUILD</b>
+
+<br>
 
 Turn concepts into projects.
 
@@ -570,7 +582,9 @@ Turn concepts into projects.
 
 🐛
 
-**DEBUG**
+<b>DEBUG</b>
+
+<br>
 
 Question mistakes and understand them.
 
@@ -582,7 +596,9 @@ Question mistakes and understand them.
 
 🚀
 
-**IMPROVE**
+<b>IMPROVE</b>
+
+<br>
 
 Make solutions cleaner and better.
 
@@ -591,9 +607,15 @@ Make solutions cleaner and better.
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=19&pause=1000&color=A67C52&center=true&vCenter=true&width=750&lines=Every+project+teaches+something+new+%E2%98%95"/>
+</p>
+
 ---
 
-# 🏆 Beyond Coding
+# 🤝 Communities & Experiences
 
 ### 🚀 Hackathons & Projects
 
@@ -601,11 +623,11 @@ I enjoy working on problems where ideas have to become practical solutions under
 
 Hackathons have helped me practice **teamwork, rapid learning, problem decomposition, communication, and building under pressure**.
 
-### 🤝 Technical Communities
+### 🌱 Technical Communities
 
-Technical communities give me opportunities to learn from people with different backgrounds, approaches, and perspectives.
+Being part of technical communities gives me opportunities to learn from people with different backgrounds and approaches while expanding my understanding beyond coursework.
 
-### 🌱 SheFi Season 17
+### ✨ SheFi Season 17
 
 Being part of the **SheFi Season 17 cohort** has introduced me to Web3 and decentralized technologies alongside my core computer science interests.
 
@@ -627,7 +649,7 @@ And sometimes, break it first. 😄
 
 ---
 
-# 🌟 Beyond Code
+# 🌷 Beyond Code
 
 <p align="center">
 
@@ -639,13 +661,33 @@ And sometimes, break it first. 😄
 &nbsp;&nbsp; • &nbsp;&nbsp;
 🚀 <b>Exploring</b>
 &nbsp;&nbsp; • &nbsp;&nbsp;
-☕ <b>Debugging</b>
+☕ <b>Late-Night Debugging</b>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/navya_shukla45/">
+<img src="https://img.shields.io/badge/LeetCode-3B2418?style=for-the-badge&logo=leetcode&logoColor=F5E6D3"/>
+</a>
+
+<a href="https://www.codechef.com/users/rapid_truth_18">
+<img src="https://img.shields.io/badge/CodeChef-3B2418?style=for-the-badge&logo=codechef&logoColor=F5E6D3"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">
+<img src="https://img.shields.io/badge/GeeksforGeeks-3B2418?style=for-the-badge&logo=geeksforgeeks&logoColor=F5E6D3"/>
+</a>
+
+</p>
+
+---
+
+# 🤎 Connect With Me
 
 <p align="center">
 
@@ -675,9 +717,11 @@ And sometimes, break it first. 😄
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&pause=1200&color=C19A6B&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by+%E2%98%95;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Exploring"
+    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&pause=1200&color=C19A6B&center=true&vCenter=true&width=750&lines=Let's+build+something+interesting+%E2%98%95;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Exploring"
   />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B14,40:5A3825,75:8B5E3C,100:C19A6B&height=150&section=footer"/>
