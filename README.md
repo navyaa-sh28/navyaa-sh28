@@ -1,7 +1,5 @@
 <!-- ====================================================== -->
-
-<!--                    NAVYA SHUKLA                         -->
-
+<!--                    NAVYA SHUKLA                        -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -20,25 +18,27 @@
 
 # ☕ About Me
 
-I'm a **Computer Science undergraduate** interested in the intersection of **Artificial Intelligence, software development, data, and emerging technologies**.
+I'm a **Computer Science undergraduate** with a strong interest in **Artificial Intelligence, software development, data, and problem solving**.
 
-What interests me most about computer science is the process of taking something complicated — a problem, a dataset, an idea, or a system — and breaking it down until it becomes something understandable and solvable.
+I'm drawn to problems where technology has to turn information into something useful — whether that's a machine learning model finding patterns in data, a software system solving a practical problem, or an algorithm finding an efficient solution.
 
-I'm currently building depth in **C++, Python, JavaScript, AI/ML, Data Analysis, and full-stack development**, while strengthening the fundamentals that sit underneath all of them.
+I'm currently building depth in **C++, Python, JavaScript, AI/ML, Data Analysis, and full-stack development**, while strengthening the computer science fundamentals that sit underneath all of them.
 
 I spend a significant amount of time solving programming problems because I believe good software development starts with the ability to **think clearly, reason about constraints, and find efficient solutions**.
 
-At the same time, I enjoy building projects because problem-solving becomes much more meaningful when there's an actual product at the end of it.
+At the same time, I enjoy building projects because problem-solving becomes much more meaningful when there is an actual product at the end of it.
 
-I'm particularly curious about **AI applications in real-world systems**, especially areas where data is noisy, incomplete, or continuously changing.
+I'm particularly curious about **AI applications in real-world systems**, especially areas where data can be noisy, incomplete, or continuously changing.
 
-And somewhere beyond the screen, I'm also fascinated by **space technology** — not because I already know everything about it, but because it represents exactly the kind of difficult, high-precision engineering problems I'd like to understand better over time.
+I'm also gradually exploring **space technology** and the possibilities at the intersection of computing, AI, data, and scientific systems. It's an area I'm learning about rather than claiming expertise in — but the problems it presents are exactly the kind of problems I find fascinating.
+
+I learn best by **building and experimenting**. Projects, hackathons, competitive programming, technical communities, and independent exploration all help me turn concepts into something concrete.
 
 ---
 
 # 🧭 What Drives My Curiosity
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" valign="top" align="center">
@@ -47,13 +47,15 @@ And somewhere beyond the screen, I'm also fascinated by **space technology** —
 
 I'm exploring how AI and machine learning can move from theoretical concepts to practical systems.
 
+<br>
+
 **Interested in**
 
-Machine Learning
-Data Processing
-Pattern Recognition
-Prediction
-Anomaly Detection
+Machine Learning  
+Data Processing  
+Pattern Recognition  
+Prediction  
+Anomaly Detection  
 Intelligent Systems
 
 </td>
@@ -64,13 +66,15 @@ Intelligent Systems
 
 I enjoy turning ideas into applications that people can actually interact with.
 
+<br>
+
 **Interested in**
 
-Frontend Development
-Full-Stack Applications
-APIs
-Databases
-UI/UX
+Frontend Development  
+Full-Stack Applications  
+APIs  
+Databases  
+UI/UX  
 Clean & Maintainable Code
 
 </td>
@@ -81,13 +85,15 @@ Clean & Maintainable Code
 
 I'm learning how to move from raw information to meaningful insights.
 
+<br>
+
 **Interested in**
 
-Data Cleaning
-Exploratory Analysis
-Visualization
-Statistics
-Machine Learning
+Data Cleaning  
+Exploratory Analysis  
+Visualization  
+Statistics  
+Machine Learning  
 Data-driven Decisions
 
 </td>
@@ -95,31 +101,35 @@ Data-driven Decisions
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1200&color=A67C52&center=true&vCenter=true&width=700&lines=Curiosity+%E2%86%92+Experimentation+%E2%86%92+Understanding+%E2%86%92+Building"/>
+</p>
+
 ---
 
-# 🌌 A Growing Interest in Space Technology
+# 🌌 Exploring Space Technology
 
-Space technology is an area I'm **exploring rather than claiming expertise in**.
+Space technology is an area I'm **gradually exploring alongside my computer science journey**.
 
-What draws me toward it is the combination of:
+What attracts me to it is the combination of:
 
 **Computer Science + Data + AI + Engineering**
 
-Space missions produce enormous amounts of information, and many problems involve prediction, monitoring, anomaly detection, optimization, and decision-making.
+Space missions and scientific systems generate huge amounts of information, creating problems around prediction, monitoring, optimization, anomaly detection, and decision-making.
 
-That makes it an exciting area for someone interested in intelligent systems.
+Some areas I'm curious about include:
 
-I'm especially curious about applications such as:
+🚀 Space data analysis  
+🛰️ Remote sensing  
+📡 Sensor and signal data  
+🔭 Scientific computing  
+📈 Forecasting  
+⚠️ Anomaly detection  
+🤖 AI-assisted systems
 
-🚀 Space data analysis
-🛰️ Remote sensing
-📡 Signal and sensor data
-🔭 Scientific computing
-📈 Forecasting
-⚠️ Anomaly detection
-🤖 AI-assisted space systems
-
-For now, I'm focused on building the **CS and AI foundations** that could allow me to explore these problems more seriously in the future.
+For now, my priority is building strong foundations in **computer science, programming, AI, and data** so that I can explore these areas more deeply in the future.
 
 ---
 
@@ -127,7 +137,7 @@ For now, I'm focused on building the **CS and AI foundations** that could allow 
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark" />
 
@@ -165,7 +175,7 @@ For now, I'm focused on building the **CS and AI foundations** that could allow 
 
 # 🚀 Projects
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -177,6 +187,8 @@ A responsive task-management application focused on simplicity and usability.
 **Built with**
 
 `HTML` `CSS` `JavaScript` `React`
+
+<br>
 
 <a href="https://github.com/navyaa-sh28/TodoFlow">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
@@ -194,6 +206,8 @@ A modern restaurant website designed around responsive layouts and an elegant us
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
+<br>
+
 <a href="https://github.com/navyaa-sh28/velvetspoon-">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
 </a>
@@ -205,30 +219,15 @@ A modern restaurant website designed around responsive layouts and an elegant us
 
 ---
 
-# 🧩 How I Like to Learn
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=A67C52&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"/>
-</p>
-
-I learn best when I can **build something with what I'm learning**.
-
-Instead of stopping at understanding the syntax of a technology, I try to understand:
-
-> **Why does it work?**
-> **Why does it fail?**
-> **Can I solve it differently?**
-> **Can I make it more efficient?**
-
-That mindset has pushed me toward competitive programming, personal projects, hackathons, technical communities, and independent exploration.
-
----
-
 # 🧠 Competitive Programming
 
-Problem solving is one of the areas I'm actively working on to strengthen my computer science fundamentals.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Optimize;One+Problem+at+a+Time+%F0%9F%9A%80"/>
+</p>
 
-I practice across:
+Problem solving is an important part of how I strengthen my computer science fundamentals.
+
+I regularly practice across competitive programming platforms to improve my understanding of **data structures, algorithms, complexity, and logical reasoning**.
 
 <p align="center">
 
@@ -263,7 +262,7 @@ It's to become better at **recognizing patterns, choosing the right approach, an
 # 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=700&lines=Learning+by+building+%E2%80%A2+Improving+by+solving+%E2%80%A2+Growing+through+experience"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=700&lines=Learning+by+Building+%E2%80%A2+Improving+by+Solving+%E2%80%A2+Growing+through+Experience"/>
 </p>
 
 <table align="center">
@@ -338,6 +337,34 @@ Data-driven Insights
 
 </tr>
 </table>
+
+---
+
+# 🧩 How I Like to Learn
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=A67C52&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"/>
+</p>
+
+I learn best when I can **build something with what I'm learning**.
+
+Instead of stopping at understanding the syntax of a technology, I try to understand:
+
+> **Why does it work?**  
+> **Why does it fail?**  
+> **Can I solve it differently?**  
+> **Can I make it more efficient?**
+
+That mindset has pushed me toward competitive programming, personal projects, hackathons, technical communities, and independent exploration.
+
+Every bug becomes a question.
+
+Every difficult problem becomes something to understand.
+
+Every project becomes an opportunity to improve.
+
+---
+
 # 🎯 My Current Direction
 
 <p align="center">
@@ -390,9 +417,12 @@ AI Applications
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=A67C52&center=true&vCenter=true&width=650&lines=Strong+Fundamentals+%E2%86%92+Practical+Skills+%E2%86%92+Real-World+Problems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=700&lines=Strong+Fundamentals+%E2%86%92+Practical+Skills+%E2%86%92+Real-World+Problems"/>
 
 </p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -407,71 +437,85 @@ AI Applications
 
 ---
 
-# 🏆 GitHub Profile Highlights
+# 🏆 GitHub Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=navyaa-sh28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
-</p>
-
-# 🏆 GitHub Profile Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navyaa-sh28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=github_dark" width="95%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=github_dark" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=github_dark" width="48%"/>
-
 </p>
 
 ---
 
-# 📈 What I'm Building Toward
+# 📚 My Development Journey
 
-### 01 — Strong Fundamentals
+<table align="center">
+<tr>
 
-C++, DSA, algorithms, problem solving, databases, and core computer science.
+<td width="25%" align="center">
 
-### 02 — Practical Development
+### 01
 
-Building applications that are usable, responsive, and thoughtfully engineered.
+🧠
 
-### 03 — AI & Data
+**Learn**
 
-Developing the ability to work with data and build models that can extract patterns and support decisions.
+Understand the fundamentals before trying to build on top of them.
 
-### 04 — Exploration
+</td>
 
-Gradually exploring areas where AI, software, data, and emerging technologies intersect.
+<td width="25%" align="center">
 
-### 05 — Real-World Impact
+### 02
 
-Ultimately, I want to work on problems where the technology isn't just impressive — **it is useful**.
+🔨
+
+**Build**
+
+Turn concepts into projects and experiments.
+
+</td>
+
+<td width="25%" align="center">
+
+### 03
+
+🐛
+
+**Debug**
+
+Question mistakes instead of simply fixing them.
+
+</td>
+
+<td width="25%" align="center">
+
+### 04
+
+🚀
+
+**Improve**
+
+Make solutions cleaner, faster, and more useful.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 Beyond Coding
 
-### 🚀 Hackathons
+### 🚀 Hackathons & Projects
 
-I enjoy hackathons because they force ideas to become working solutions under real constraints.
+I enjoy working on problems where ideas have to become practical solutions under real constraints.
 
-They've helped me practice **teamwork, rapid learning, problem decomposition, and building under pressure**.
+Hackathons have helped me practice **teamwork, rapid learning, problem decomposition, communication, and building under pressure**.
 
-### 🌱 Communities
+### 🤝 Technical Communities
 
-Technical communities give me opportunities to learn from people with different perspectives and approaches.
+Being part of technical communities gives me opportunities to learn from people with different backgrounds, approaches, and perspectives.
 
-### 🌐 SheFi Season 17
+### 🌱 SheFi Season 17
 
 Being part of the **SheFi Season 17 cohort** has also introduced me to Web3 and decentralized technologies alongside my core computer science interests.
 
@@ -498,13 +542,13 @@ And sometimes, break it first. 😄
 <p align="center">
 
 💃 <b>Dancing</b>
-   •   
+&nbsp;&nbsp; • &nbsp;&nbsp;
 📚 <b>Reading</b>
-   •   
+&nbsp;&nbsp; • &nbsp;&nbsp;
 🎨 <b>Creativity</b>
-   •   
+&nbsp;&nbsp; • &nbsp;&nbsp;
 🚀 <b>Exploring</b>
-   •   
+&nbsp;&nbsp; • &nbsp;&nbsp;
 ☕ <b>Debugging</b>
 
 </p>
