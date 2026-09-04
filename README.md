@@ -1,74 +1,125 @@
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<!--          HEADER           -->
+<!--                    NAVYA SHUKLA                         -->
 
-<!-- ========================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Navya+Shukla;AI+%26+Full-Stack+Developer;C%2B%2B+%7C+Python+%7C+JavaScript;DSA+%7C+AI%2FML+%7C+Data+Analysis;Building+%7C+Learning+%7C+Exploring" />
-</h1>
+<!-- ====================================================== -->
 
 <p align="center">
-  <strong>Computer Science Undergraduate • Developer • Problem Solver</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B14,40:5A3825,75:8B5E3C,100:C19A6B&height=180&section=header&text=Navya%20Shukla&fontSize=46&fontColor=F5E6D3&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=120&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=25&pause=1000&color=C19A6B&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate;C%2B%2B+%7C+Python+%7C+AI%2FML;Data+Analysis+%7C+Full-Stack+Development;DSA+%7C+Problem+Solving+%7C+Building;Curious+Mind+%7C+Constant+Learner"/>
+</p>
+
+<p align="center">
+  <i>Turning curiosity into code, ideas into projects, and data into insight.</i>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# ☕ About Me
 
-I'm a **Computer Science undergraduate** with a strong interest in **Artificial Intelligence, full-stack development, data, and problem solving**.
+I'm a **Computer Science undergraduate** interested in the intersection of **Artificial Intelligence, software development, data, and emerging technologies**.
 
-I'm drawn to problems where technology has to turn information into something useful — whether that's a model finding patterns in data, an application solving a practical problem, or an algorithm finding an efficient solution.
+What interests me most about computer science is the process of taking something complicated — a problem, a dataset, an idea, or a system — and breaking it down until it becomes something understandable and solvable.
 
-I'm currently building my foundation in **C++, Python, JavaScript, AI/ML, Data Analysis, and full-stack development**, while continuously strengthening my understanding of computer science fundamentals through competitive programming.
+I'm currently building depth in **C++, Python, JavaScript, AI/ML, Data Analysis, and full-stack development**, while strengthening the fundamentals that sit underneath all of them.
 
-I learn best by **building and experimenting**. Hackathons, projects, coding platforms, and technical communities give me opportunities to take concepts beyond tutorials and turn them into working solutions.
+I spend a significant amount of time solving programming problems because I believe good software development starts with the ability to **think clearly, reason about constraints, and find efficient solutions**.
 
-My long-term goal is to keep developing the combination of **strong fundamentals + practical engineering + intelligent systems**.
+At the same time, I enjoy building projects because problem-solving becomes much more meaningful when there's an actual product at the end of it.
+
+I'm particularly curious about **AI applications in real-world systems**, especially areas where data is noisy, incomplete, or continuously changing.
+
+And somewhere beyond the screen, I'm also fascinated by **space technology** — not because I already know everything about it, but because it represents exactly the kind of difficult, high-precision engineering problems I'd like to understand better over time.
 
 ---
 
-# 🧩 What I'm Interested In
+# 🧭 What Drives My Curiosity
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
-### 🧠 AI / ML
+## 🧠 Artificial Intelligence
 
-Exploring how machine learning can be used to understand data, identify patterns, and build intelligent solutions.
+I'm exploring how AI and machine learning can move from theoretical concepts to practical systems.
+
+**Interested in**
+
+Machine Learning
+Data Processing
+Pattern Recognition
+Prediction
+Anomaly Detection
+Intelligent Systems
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
-### 💻 Development
+## 💻 Software Engineering
 
-Building responsive, practical applications while improving my understanding of modern web technologies.
+I enjoy turning ideas into applications that people can actually interact with.
+
+**Interested in**
+
+Frontend Development
+Full-Stack Applications
+APIs
+Databases
+UI/UX
+Clean & Maintainable Code
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
-### 📊 Data
+## 📊 Data & Analysis
 
-Learning how to process, analyze, visualize, and extract meaningful insights from data.
+I'm learning how to move from raw information to meaningful insights.
+
+**Interested in**
+
+Data Cleaning
+Exploratory Analysis
+Visualization
+Statistics
+Machine Learning
+Data-driven Decisions
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-1e6c1f7b-2f3c-4c4e-8f7c-1a3c6b6f6b7a.gif" width="400">
-</p>
+# 🌌 A Growing Interest in Space Technology
+
+Space technology is an area I'm **exploring rather than claiming expertise in**.
+
+What draws me toward it is the combination of:
+
+**Computer Science + Data + AI + Engineering**
+
+Space missions produce enormous amounts of information, and many problems involve prediction, monitoring, anomaly detection, optimization, and decision-making.
+
+That makes it an exciting area for someone interested in intelligent systems.
+
+I'm especially curious about applications such as:
+
+🚀 Space data analysis
+🛰️ Remote sensing
+📡 Signal and sensor data
+🔭 Scientific computing
+📈 Forecasting
+⚠️ Anomaly detection
+🤖 AI-assisted space systems
+
+For now, I'm focused on building the **CS and AI foundations** that could allow me to explore these problems more seriously in the future.
 
 ---
 
@@ -76,7 +127,7 @@ Learning how to process, analyze, visualize, and extract meaningful insights fro
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark" />
 
@@ -94,7 +145,7 @@ Learning how to process, analyze, visualize, and extract meaningful insights fro
 
 <br>
 
-**AI/ML • Data Analysis • Data Visualization • Scientific Computing**
+**Machine Learning • Data Analysis • Data Visualization • Scientific Computing**
 
 <br><br>
 
@@ -119,46 +170,32 @@ Learning how to process, analyze, visualize, and extract meaningful insights fro
 
 <td width="50%" valign="top">
 
-## 📝 ToDo Flow
+### 📝 ToDo Flow
 
 A responsive task-management application focused on simplicity and usability.
 
-**Features**
+**Built with**
 
-* Task creation & deletion
-* Completion tracking
-* Responsive UI
-* Clean interface
-
-**Stack:** HTML • CSS • JavaScript • React
-
-<br>
+`HTML` `CSS` `JavaScript` `React`
 
 <a href="https://github.com/navyaa-sh28/TodoFlow">
-<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🍴 Velvet Spoon
+### 🍴 Velvet Spoon
 
-A modern restaurant website with a responsive layout and interactive sections.
+A modern restaurant website designed around responsive layouts and an elegant user experience.
 
-**Features**
+**Built with**
 
-* Responsive design
-* Modern landing page
-* Interactive sections
-* Smooth navigation
-
-**Stack:** HTML • CSS • JavaScript • Bootstrap
-
-<br>
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
 <a href="https://github.com/navyaa-sh28/velvetspoon-">
-<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
 </a>
 
 </td>
@@ -168,175 +205,250 @@ A modern restaurant website with a responsive layout and interactive sections.
 
 ---
 
-# 🧠 Competitive Programming
+# 🧩 How I Like to Learn
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Optimize;One+Problem+at+a+Time+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=A67C52&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"/>
 </p>
 
-I regularly practice problem solving across competitive programming platforms to strengthen my understanding of **data structures, algorithms, complexity, and logical reasoning**.
+I learn best when I can **build something with what I'm learning**.
+
+Instead of stopping at understanding the syntax of a technology, I try to understand:
+
+> **Why does it work?**
+> **Why does it fail?**
+> **Can I solve it differently?**
+> **Can I make it more efficient?**
+
+That mindset has pushed me toward competitive programming, personal projects, hackathons, technical communities, and independent exploration.
+
+---
+
+# 🧠 Competitive Programming
+
+Problem solving is one of the areas I'm actively working on to strengthen my computer science fundamentals.
+
+I practice across:
 
 <p align="center">
 
 <a href="https://leetcode.com/u/navya_shukla45/">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-3B2418?style=for-the-badge&logo=leetcode&logoColor=F5E6D3"/>
 </a>
 
 <a href="https://www.codechef.com/users/rapid_truth_18">
-<img src="https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-3B2418?style=for-the-badge&logo=codechef&logoColor=F5E6D3"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">
-<img src="https://img.shields.io/badge/GeeksforGeeks-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-3B2418?style=for-the-badge&logo=geeksforgeeks&logoColor=F5E6D3"/>
 </a>
 
 </p>
 
-### Currently Strengthening
+### 🔎 Currently Strengthening
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `Recursion` • `Searching` • `Sorting` • `Dynamic Programming`
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
+
+`Trees` • `Graphs` • `Recursion` • `Searching` • `Sorting`
+
+`Greedy` • `Dynamic Programming` • `Complexity Analysis`
+
+The goal isn't simply to increase the number of problems solved.
+
+It's to become better at **recognizing patterns, choosing the right approach, analyzing complexity, and writing reliable solutions**.
 
 ---
 
 # 🌱 Currently Learning
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=C%2B%2B+%E2%86%92+DSA+%26+Problem+Solving;Python+%E2%86%92+AI%2FML+%26+Data+Analysis;JavaScript+%E2%86%92+Modern+Web+Development;React+%E2%86%92+Interactive+Applications;SQL+%E2%86%92+Working+with+Data" />
+<td width="50%" valign="top">
 
-</p>
+### 🐍 Python
+
+Building stronger foundations for:
+
+* AI / ML
+* Data Analysis
+* Data Processing
+* Automation
+* Scientific Computing
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 C++
+
+Improving my foundations in:
+
+* Data Structures
+* Algorithms
+* Competitive Programming
+* Problem Solving
+* Performance & Complexity
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 JavaScript & React
+
+Learning how to build:
+
+* Interactive interfaces
+* Responsive applications
+* Reusable components
+* Practical web projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Analysis
+
+Exploring:
+
+* Data cleaning
+* Exploratory analysis
+* Visualization
+* Statistical thinking
+* Data-driven insights
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 My Current Direction
+
+```text
+                     ┌─────────────────┐
+                     │   COMPUTER      │
+                     │    SCIENCE      │
+                     └────────┬────────┘
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+        💻 SOFTWARE       🧠 AI / ML       📊 DATA
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                              ▼
+                     🚀 REAL-WORLD
+                       APPLICATIONS
+                              │
+                              ▼
+                    🌌 FUTURE EXPLORATION
+                       OF SPACE TECH
+```
+
+My focus right now is not on trying to master everything at once.
+
+It's on building **strong fundamentals**, developing practical skills, and gradually connecting different areas of computer science.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=true&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&bg_color=2B1B14&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=true&title_color=C19A6B&text_color=E8D5C4&bg_color=2B1B14&langs_count=8&cache_seconds=1800" width="49%"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78" width="75%"/>
+</p>
+
+---
+
+# 🏆 GitHub Profile Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=navyaa-sh28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
+</p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=navyaa-sh28&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=github_dark" width="95%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=github_dark" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=github_dark" width="48%"/>
 
 </p>
 
 ---
 
-# 💡 How I Learn
+# 📈 What I'm Building Toward
 
-<p align="center">
+### 01 — Strong Fundamentals
 
-### BUILD
+C++, DSA, algorithms, problem solving, databases, and core computer science.
 
-↓
+### 02 — Practical Development
 
-### BREAK
+Building applications that are usable, responsive, and thoughtfully engineered.
 
-↓
+### 03 — AI & Data
 
-### UNDERSTAND
+Developing the ability to work with data and build models that can extract patterns and support decisions.
 
-↓
+### 04 — Exploration
 
-### IMPROVE
+Gradually exploring areas where AI, software, data, and emerging technologies intersect.
 
-↓
+### 05 — Real-World Impact
 
-### BUILD BETTER 🚀
-
-</p>
-
-I prefer learning through implementation.
-
-Instead of only following tutorials, I try to take what I've learned and turn it into **projects, experiments, coding problems, or small implementations**.
-
-Every bug becomes a question.
-
-Every difficult problem becomes something to understand.
-
-Every project becomes an opportunity to improve.
+Ultimately, I want to work on problems where the technology isn't just impressive — **it is useful**.
 
 ---
 
 # 🏆 Beyond Coding
 
-### 🚀 Hackathons & Projects
+### 🚀 Hackathons
 
-I enjoy working on problems where ideas have to become practical solutions.
+I enjoy hackathons because they force ideas to become working solutions under real constraints.
 
-### 🤝 Communities
+They've helped me practice **teamwork, rapid learning, problem decomposition, and building under pressure**.
 
-Technical communities and collaborative environments have helped me explore technologies beyond my regular coursework.
+### 🌱 Communities
 
-### 🌱 SheFi Season 17
+Technical communities give me opportunities to learn from people with different perspectives and approaches.
 
-Being part of the **SheFi Season 17 cohort** has also given me exposure to Web3 and decentralized technologies alongside my core computer science interests.
+### 🌐 SheFi Season 17
+
+Being part of the **SheFi Season 17 cohort** has also introduced me to Web3 and decentralized technologies alongside my core computer science interests.
 
 ---
 
-# 🎯 Current Focus
+# 💭 A Few Things I Believe
 
-<table>
-<tr>
-<td align="center">
+> **Good code isn't just code that works.**
 
-### 💻 C++
+It should be understandable, maintainable, and appropriate for the problem.
 
-DSA & Competitive Programming
+> **Learning doesn't end when the tutorial ends.**
 
-</td>
+That's usually where the interesting part begins.
 
-<td align="center">
+> **The best way to understand something is to build with it.**
 
-### 🐍 Python
-
-AI/ML & Data Analysis
-
-</td>
-
-<td align="center">
-
-### 🌐 Full Stack
-
-Building Practical Applications
-
-</td>
-
-</tr>
-
-<tr>
-<td align="center">
-
-### 📊 Data
-
-Analysis & Visualization
-
-</td>
-
-<td align="center">
-
-### 🧠 AI
-
-Learning Intelligent Systems
-
-</td>
-
-<td align="center">
-
-### 🚀 Projects
-
-Build → Test → Improve
-
-</td>
-
-</tr>
-</table>
+And sometimes, break it first. 😄
 
 ---
 
@@ -344,11 +456,15 @@ Build → Test → Improve
 
 <p align="center">
 
-💃 Dancing    •   
-📚 Reading    •   
-🎨 Creativity    •   
-🚀 Exploring Ideas    •   
-☕ Late-Night Debugging
+💃 <b>Dancing</b>
+   •   
+📚 <b>Reading</b>
+   •   
+🎨 <b>Creativity</b>
+   •   
+🚀 <b>Exploring</b>
+   •   
+☕ <b>Debugging</b>
 
 </p>
 
@@ -359,23 +475,23 @@ Build → Test → Improve
 <p align="center">
 
 <a href="https://github.com/navyaa-sh28">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
 </a>
 
 <a href="https://www.linkedin.com/in/navya-shukla-94565b356">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-3B2418?style=for-the-badge&logo=linkedin&logoColor=F5E6D3"/>
 </a>
 
 <a href="https://leetcode.com/u/navya_shukla45/">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-3B2418?style=for-the-badge&logo=leetcode&logoColor=F5E6D3"/>
 </a>
 
 <a href="https://www.codechef.com/users/rapid_truth_18">
-<img src="https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-3B2418?style=for-the-badge&logo=codechef&logoColor=F5E6D3"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">
-<img src="https://img.shields.io/badge/GeeksforGeeks-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-3B2418?style=for-the-badge&logo=geeksforgeeks&logoColor=F5E6D3"/>
 </a>
 
 </p>
@@ -383,15 +499,13 @@ Build → Test → Improve
 ---
 
 <p align="center">
+  <i>Open to learning, building, collaborating, and solving interesting problems.</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=120&section=footer"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B14,40:5A3825,75:8B5E3C,100:C19A6B&height=150&section=footer"/>
 </p>
 
 <h3 align="center">
-✨ Thanks for visiting my profile ✨
+  ✦ Keep Learning • Keep Building • Keep Exploring ✦
 </h3>
-
-<p align="center">
-<i>Keep learning. Keep building. Keep exploring. 🚀</i>
-</p>
