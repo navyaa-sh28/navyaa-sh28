@@ -335,32 +335,6 @@ Data-driven Insights
 
 ---
 
-
-# 🧩 How I Learn
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=900&color=A67C52&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"/>
-</p>
-
-I learn best when I can **build something with what I'm learning**.
-
-Instead of stopping at syntax, I like understanding:
-
-> **Why does it work?**  
-> **Why does it fail?**  
-> **Can I solve it differently?**  
-> **Can I make it more efficient?**
-
-Projects, hackathons, competitive programming, and independent exploration help me turn concepts into practical understanding.
-
-Every bug becomes a question.
-
-Every difficult problem becomes something to understand.
-
-Every project becomes an opportunity to improve.
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
