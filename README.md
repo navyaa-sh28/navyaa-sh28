@@ -228,56 +228,45 @@ A responsive restaurant website focused on visual design, layout, and user exper
 
 ---
 
-# 🔎 Currently Strengthening
+# 🧠 Competitive Programming
 
-<table align="center" width="92%">
-<tr>
-<td align="center">
+Problem solving is one of the areas I'm actively working on to strengthen my computer science fundamentals.
 
-<img src="https://img.shields.io/badge/Arrays-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Strings-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Linked%20Lists-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Stacks-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Queues-EEF1F4?style=flat-square&logoColor=3B2418"/>
+I practice across:
 
-<br><br>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Trees-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Graphs-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Recursion-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Searching-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Sorting-EEF1F4?style=flat-square&logoColor=3B2418"/>
+<a href="https://leetcode.com/u/navya_shukla45/">
+<img src="https://img.shields.io/badge/↪%20LEETCODE-3B2418?style=for-the-badge&logo=leetcode&logoColor=F5E6D3"/>
+</a>
 
-<br><br>
+<a href="https://www.codechef.com/users/rapid_truth_18">
+<img src="https://img.shields.io/badge/♟%20CODECHEF-3B2418?style=for-the-badge&logo=codechef&logoColor=F5E6D3"/>
+</a>
 
-<img src="https://img.shields.io/badge/Greedy-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Dynamic%20Programming-EEF1F4?style=flat-square&logoColor=3B2418"/>
-&nbsp; • &nbsp;
-<img src="https://img.shields.io/badge/Complexity%20Analysis-EEF1F4?style=flat-square&logoColor=3B2418"/>
+<a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">
+<img src="https://img.shields.io/badge/⌘%20GEEKSFORGEEKS-3B2418?style=for-the-badge&logo=geeksforgeeks&logoColor=F5E6D3"/>
+</a>
 
-</td>
-</tr>
-</table>
+</p>
+
+### 🔎 Currently Strengthening
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
 
 <br>
 
-<p align="center">
-  The goal isn't simply to increase the number of problems solved.
-</p>
+`Trees` • `Graphs` • `Recursion` • `Searching` • `Sorting`
 
-<p align="center">
-  It's to become better at <b>recognizing patterns, choosing the right approach,</b><br>
-  and understanding why a solution works.
-</p>
+<br>
+
+`Greedy` • `Dynamic Programming` • `Complexity Analysis`
+
+<br>
+
+The goal isn't simply to increase the number of problems solved.
+
+It's to become better at **recognizing patterns, choosing the right approach, analyzing complexity, and writing reliable solutions.**
 
 ---
 
@@ -479,143 +468,19 @@ Every project becomes an opportunity to improve.
 
 ---
 
-# 🏆 GitHub Profile Highlights
+# 💭 A Few Things I Believe
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Learn+%E2%80%A2+Repeat"
-  />
-</p>
+> **Good code isn't just code that works.**
 
-<table align="center" width="90%">
-<tr>
+It should be understandable, maintainable, and appropriate for the problem.
 
-<td width="33%" align="center" valign="top">
+> **Learning doesn't end when the tutorial ends.**
 
-<h3>💻 Projects</h3>
+That's usually where the interesting part begins.
 
-Building practical applications and experimenting with different technologies.
+> **The best way to understand something is to build with it.**
 
-<br><br>
-
-<a href="https://github.com/navyaa-sh28/TodoFlow">
-<img
-  src="https://img.shields.io/badge/TodoFlow-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"
-/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/navyaa-sh28/velvetspoon-">
-<img
-  src="https://img.shields.io/badge/Velvet_Spoon-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"
-/>
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>🧠 Problem Solving</h3>
-
-Regularly practicing algorithms and data structures to improve logical thinking, efficiency, and coding precision.
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/DSA-3B2418?style=for-the-badge&logoColor=F5E6D3"
-/>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>📚 Continuous Learning</h3>
-
-Exploring Python, C++, AI/ML, data analysis, full-stack development, and the intersection of computing with space technology.
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/LEARNING-3B2418?style=for-the-badge&logoColor=F5E6D3"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📚 My Development Journey
-
-<table align="center" width="90%">
-<tr>
-
-<td width="25%" align="center" valign="middle">
-
-### 01
-
-🧠
-
-<b>LEARN</b>
-
-<br>
-
-Understand the fundamentals.
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-### 02
-
-🔨
-
-<b>BUILD</b>
-
-<br>
-
-Turn concepts into projects.
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-### 03
-
-🐛
-
-<b>DEBUG</b>
-
-<br>
-
-Question mistakes and understand them.
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-### 04
-
-🚀
-
-<b>IMPROVE</b>
-
-<br>
-
-Make solutions cleaner and better.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=19&pause=1000&color=A67C52&center=true&vCenter=true&width=750&lines=Every+project+teaches+something+new+%E2%98%95"/>
-</p>
+And sometimes, break it first. 😄
 
 ---
 
@@ -634,22 +499,6 @@ Being part of technical communities gives me opportunities to learn from people 
 ### ✨ SheFi Season 17
 
 Being part of the **SheFi Season 17 cohort** has introduced me to Web3 and decentralized technologies alongside my core computer science interests.
-
----
-
-# 💭 A Few Things I Believe
-
-> **Good code isn't just code that works.**
-
-It should be understandable, maintainable, and appropriate for the problem.
-
-> **Learning doesn't end when the tutorial ends.**
-
-That's usually where the interesting part begins.
-
-> **The best way to understand something is to build with it.**
-
-And sometimes, break it first. 😄
 
 ---
 
