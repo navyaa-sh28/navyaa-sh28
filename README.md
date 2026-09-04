@@ -387,22 +387,6 @@ Data-driven Insights
 
 ---
 
-# 💭 A Few Things I Believe
-
-> **Good code isn't just code that works.**
-
-It should be understandable, maintainable, and appropriate for the problem.
-
-> **Learning doesn't end when the tutorial ends.**
-
-That's usually where the interesting part begins.
-
-> **The best way to understand something is to build with it.**
-
-And sometimes, break it first. 😄
-
----
-
 # 🤝 Communities & Experiences
 
 ### 🚀 Hackathons & Projects
@@ -411,9 +395,9 @@ I enjoy working on problems where ideas have to become practical solutions under
 
 Hackathons have helped me practice **teamwork, rapid learning, problem decomposition, communication, and building under pressure**.
 
-### 🌱 Technical Communities
+### 🌱 Communities
 
-Being part of technical communities gives me opportunities to learn from people with different backgrounds and approaches while expanding my understanding beyond coursework.
+Being part of various communities gives me opportunities to learn from people with different backgrounds and approaches while expanding my understanding beyond coursework.
 
 ### ✨ SheFi Season 17
 
