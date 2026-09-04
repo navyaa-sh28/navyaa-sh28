@@ -228,40 +228,56 @@ A responsive restaurant website focused on visual design, layout, and user exper
 
 ---
 
-# 🧠 Competitive Programming
+# 🔎 Currently Strengthening
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=750&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Optimize;One+Problem+at+a+Time+%F0%9F%9A%80"/>
-</p>
+<table align="center" width="92%">
+<tr>
+<td align="center">
 
-Problem solving is one of the ways I strengthen my **computer science fundamentals**.
+<img src="https://img.shields.io/badge/Arrays-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Strings-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Linked%20Lists-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Stacks-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Queues-EEF1F4?style=flat-square&logoColor=3B2418"/>
 
-I practice regularly to improve:
+<br><br>
 
-`Data Structures`  
-`Algorithms`  
-`Complexity Analysis`  
-`Pattern Recognition`  
-`Logical Reasoning`  
-`Problem Solving`
+<img src="https://img.shields.io/badge/Trees-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Graphs-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Recursion-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Searching-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Sorting-EEF1F4?style=flat-square&logoColor=3B2418"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Greedy-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Dynamic%20Programming-EEF1F4?style=flat-square&logoColor=3B2418"/>
+&nbsp; • &nbsp;
+<img src="https://img.shields.io/badge/Complexity%20Analysis-EEF1F4?style=flat-square&logoColor=3B2418"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<p align="center">
+  The goal isn't simply to increase the number of problems solved.
+</p>
 
-<a href="https://leetcode.com/u/navya_shukla45/">
-<img src="https://img.shields.io/badge/LeetCode-3B2418?style=for-the-badge&logo=leetcode&logoColor=F5E6D3"/>
-</a>
-
-<a href="https://www.codechef.com/users/rapid_truth_18">
-<img src="https://img.shields.io/badge/CodeChef-3B2418?style=for-the-badge&logo=codechef&logoColor=F5E6D3"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">
-<img src="https://img.shields.io/badge/GeeksforGeeks-3B2418?style=for-the-badge&logo=geeksforgeeks&logoColor=F5E6D3"/>
-</a>
-
-</div>
+<p align="center">
+  It's to become better at <b>recognizing patterns, choosing the right approach,</b><br>
+  and understanding why a solution works.
+</p>
 
 ---
 
@@ -419,10 +435,6 @@ Every project becomes an opportunity to improve.
 
 <br>
 
-<!-- ====================================================== -->
-<!--                  PROFILE DETAILS                       -->
-<!-- ====================================================== -->
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=monokai"
@@ -431,10 +443,6 @@ Every project becomes an opportunity to improve.
 </p>
 
 <br>
-
-<!-- ====================================================== -->
-<!--              LANGUAGE CARDS SIDE BY SIDE              -->
-<!-- ====================================================== -->
 
 <table align="center" width="88%">
 <tr>
@@ -461,10 +469,6 @@ Every project becomes an opportunity to improve.
 </table>
 
 <br>
-
-<!-- ====================================================== -->
-<!--                    GITHUB STREAK                      -->
-<!-- ====================================================== -->
 
 <p align="center">
   <img
