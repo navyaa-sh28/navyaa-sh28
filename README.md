@@ -414,22 +414,54 @@ AI Applications
 # 📊 GitHub Analytics
 
 <p align="center">
-  <i>A snapshot of my coding consistency and GitHub activity.</i>
+  <i>A snapshot of my GitHub activity, repositories, coding consistency, and languages.</i>
 </p>
 
 <br>
 
-<!-- Working GitHub Streak -->
+<!-- GitHub Profile Summary -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=monokai"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- Language Analytics -->
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78&currStreakNum=F5E6D3&sideNums=F5E6D3" width="78%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyaa-sh28&theme=monokai"
+    width="47%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyaa-sh28&theme=monokai"
+    width="47%"
+  />
 
 </p>
 
 <br>
 
-<!-- GitHub Numbers -->
+<!-- GitHub Streak -->
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78&currStreakNum=F5E6D3&sideNums=F5E6D3"
+    width="78%"
+  />
+
+</p>
+
+<br>
+
+<!-- GitHub Badges -->
 
 <p align="center">
 
@@ -437,17 +469,7 @@ AI Applications
 
 <img src="https://img.shields.io/github/stars/navyaa-sh28?style=for-the-badge&label=TOTAL%20STARS&labelColor=3B2418&color=8B5E3C&logo=github&logoColor=F5E6D3"/>
 
-<img src="https://img.shields.io/github/commit-activity/y/navyaa-sh28?style=for-the-badge&label=COMMITS&labelColor=3B2418&color=8B5E3C&logo=git&logoColor=F5E6D3"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/created-at/navyaa-sh28/TodoFlow?style=for-the-badge&label=PROJECT%20STARTED&labelColor=3B2418&color=8B5E3C"/>
-
-<img src="https://img.shields.io/github/last-commit/navyaa-sh28/TodoFlow?style=for-the-badge&label=LAST%20TODOFLOW%20UPDATE&labelColor=3B2418&color=8B5E3C&logo=github&logoColor=F5E6D3"/>
+<img src="https://img.shields.io/github/commit-activity/y/navyaa-sh28?style=for-the-badge&label=COMMIT%20ACTIVITY&labelColor=3B2418&color=8B5E3C&logo=git&logoColor=F5E6D3"/>
 
 </p>
 
@@ -456,52 +478,60 @@ AI Applications
 # 🏆 GitHub Profile Highlights
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Learn+%E2%80%A2+Repeat"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Learn+%E2%80%A2+Repeat"
+  />
 </p>
 
 <table align="center">
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>💻 Projects</h3>
 
-Building practical applications to turn ideas into working software.
+Building practical applications and experimenting with different technologies.
+
+<br><br>
+
+<a href="https://github.com/navyaa-sh28/TodoFlow">
+<img src="https://img.shields.io/badge/TodoFlow-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/navyaa-sh28/velvetspoon-">
+<img src="https://img.shields.io/badge/Velvet%20Spoon-3B2418?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
+</a>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>🧠 Problem Solving</h3>
 
-Regular DSA practice to strengthen algorithms and logical reasoning.
+Strengthening algorithms, data structures, logical reasoning, and complexity analysis through regular practice.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>📚 Learning</h3>
+<h3>📚 Continuous Learning</h3>
 
-Continuously expanding my skills across AI, data, and development.
+Exploring AI/ML, Python, C++, data analysis, full-stack development, and space technology.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Always%20Learning-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/navyaa-sh28/TodoFlow">
-<img src="https://img.shields.io/badge/📝_TODO_FLOW-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
-</a>
-
-<a href="https://github.com/navyaa-sh28/velvetspoon-">
-<img src="https://img.shields.io/badge/🍴_VELVET_SPOON-3B2418?style=for-the-badge&logoColor=F5E6D3"/>
-</a>
-
-</div>
 
 ---
 
@@ -644,7 +674,9 @@ And sometimes, break it first. 😄
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&pause=1200&color=C19A6B&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by+%E2%98%95;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Exploring"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&pause=1200&color=C19A6B&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by+%E2%98%95;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Exploring"
+  />
 </p>
 
 <p align="center">
