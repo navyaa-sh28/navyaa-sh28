@@ -262,34 +262,42 @@ It's to become better at **recognizing patterns, choosing the right approach, an
 
 # 🌱 Currently Learning
 
-<table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=21&pause=900&color=C19A6B&center=true&vCenter=true&width=700&lines=Learning+by+building+%E2%80%A2+Improving+by+solving+%E2%80%A2+Growing+through+experience"/>
+</p>
+
+<table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🐍 Python
+<h3>🐍 Python</h3>
 
 Building stronger foundations for:
 
-* AI / ML
-* Data Analysis
-* Data Processing
-* Automation
-* Scientific Computing
+<br>
+
+AI / ML  
+Data Analysis  
+Data Processing  
+Automation  
+Scientific Computing
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 💻 C++
+<h3>💻 C++</h3>
 
 Improving my foundations in:
 
-* Data Structures
-* Algorithms
-* Competitive Programming
-* Problem Solving
-* Performance & Complexity
+<br>
+
+Data Structures  
+Algorithms  
+Competitive Programming  
+Problem Solving  
+Performance & Complexity
 
 </td>
 
@@ -297,80 +305,113 @@ Improving my foundations in:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🌐 JavaScript & React
+<h3>🌐 JavaScript & React</h3>
 
 Learning how to build:
 
-* Interactive interfaces
-* Responsive applications
-* Reusable components
-* Practical web projects
+<br>
+
+Interactive Interfaces  
+Responsive Applications  
+Reusable Components  
+Practical Web Projects
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 📊 Data Analysis
+<h3>📊 Data Analysis</h3>
 
 Exploring:
 
-* Data cleaning
-* Exploratory analysis
-* Visualization
-* Statistical thinking
-* Data-driven insights
+<br>
+
+Data Cleaning  
+Exploratory Analysis  
+Visualization  
+Statistical Thinking  
+Data-driven Insights
+
+</td>
+
+</tr>
+</table>
+# 🎯 My Current Direction
+
+<p align="center">
+  <i>Building strong foundations while gradually connecting the different areas I'm interested in.</i>
+</p>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center" valign="middle">
+
+<h3>💻 Software</h3>
+
+C++  
+DSA  
+Full-Stack Development  
+Databases  
+Problem Solving
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<h3>🧠 Intelligence</h3>
+
+Python  
+AI / ML  
+Data Analysis  
+Prediction  
+Intelligent Systems
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<h3>🌌 Exploration</h3>
+
+Space Technology  
+Scientific Data  
+Remote Sensing  
+Forecasting  
+AI Applications
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-# 🎯 My Current Direction
+<p align="center">
 
-```text
-                     ┌─────────────────┐
-                     │   COMPUTER      │
-                     │    SCIENCE      │
-                     └────────┬────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        💻 SOFTWARE       🧠 AI / ML       📊 DATA
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                     🚀 REAL-WORLD
-                       APPLICATIONS
-                              │
-                              ▼
-                    🌌 FUTURE EXPLORATION
-                       OF SPACE TECH
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=A67C52&center=true&vCenter=true&width=650&lines=Strong+Fundamentals+%E2%86%92+Practical+Skills+%E2%86%92+Real-World+Problems"/>
 
-My focus right now is not on trying to master everything at once.
-
-It's on building **strong fundamentals**, developing practical skills, and gradually connecting different areas of computer science.
-
----
-
+</p>
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=true&title_color=C19A6B&text_color=E8D5C4&icon_color=C19A6B&bg_color=2B1B14&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=true&title_color=C19A6B&text_color=E8D5C4&bg_color=2B1B14&langs_count=8&cache_seconds=1800" width="49%"/>
+  <i>A small snapshot of my coding journey and activity.</i>
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78" width="75%"/>
 </p>
 
 ---
+
+# 🏆 GitHub Profile Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=navyaa-sh28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
+</p>
 
 # 🏆 GitHub Profile Highlights
 
