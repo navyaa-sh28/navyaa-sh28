@@ -426,7 +426,7 @@ AI Applications
 # 📊 GitHub Analytics
 
 <p align="center">
-  <i>A small snapshot of my coding journey and activity.</i>
+  <i>A small snapshot of my coding journey and consistency.</i>
 </p>
 
 <br>
@@ -435,13 +435,55 @@ AI Applications
   <img src="https://streak-stats.demolab.com?user=navyaa-sh28&theme=dark&hide_border=true&background=2B1B14&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=E8D5C4&dates=A98B78" width="75%"/>
 </p>
 
----
-
-# 🏆 GitHub Highlights
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navyaa-sh28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
+
+<img src="https://img.shields.io/github/followers/navyaa-sh28?style=for-the-badge&label=FOLLOWERS&labelColor=3B2418&color=8B5E3C&logo=github&logoColor=F5E6D3"/>
+
+<img src="https://img.shields.io/github/stars/navyaa-sh28?style=for-the-badge&label=TOTAL%20STARS&labelColor=3B2418&color=8B5E3C&logo=github&logoColor=F5E6D3"/>
+
+<img src="https://komarev.com/ghpvc/?username=navyaa-sh28&style=for-the-badge&label=PROFILE+VIEWS&color=8B5E3C&labelColor=3B2418"/>
+
 </p>
+
+---
+
+# 🏅 GitHub Highlights
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=20&pause=1000&color=C19A6B&center=true&vCenter=true&width=650&lines=Code+consistently+%E2%80%A2+Learn+continuously+%E2%80%A2+Build+purposefully"/>
+</p>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Code
+
+Building projects and solving problems to strengthen practical skills.
+
+</td>
+
+<td width="33%" align="center">
+
+### 📚 Learn
+
+Continuously exploring new concepts across software, AI, and data.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Grow
+
+Turning experiments and challenges into better engineering habits.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -450,49 +492,49 @@ AI Applications
 <table align="center">
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 ### 01
 
 🧠
 
-**Learn**
+**LEARN**
 
-Understand the fundamentals before trying to build on top of them.
+Understand the fundamentals before building on top of them.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 ### 02
 
 🔨
 
-**Build**
+**BUILD**
 
 Turn concepts into projects and experiments.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 ### 03
 
 🐛
 
-**Debug**
+**DEBUG**
 
 Question mistakes instead of simply fixing them.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 ### 04
 
 🚀
 
-**Improve**
+**IMPROVE**
 
 Make solutions cleaner, faster, and more useful.
 
@@ -584,7 +626,9 @@ And sometimes, break it first. 😄
 ---
 
 <p align="center">
-  <i>Open to learning, building, collaborating, and solving interesting problems.</i>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&pause=1200&color=C19A6B&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%E2%98%95;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Exploring"/>
+  
 </p>
 
 <p align="center">
