@@ -137,7 +137,7 @@ For now, I'm focusing on building strong foundations in **programming, algorithm
 
 ---
 
-# 🛠️ Tech Stack
+#🛠️ Tech Stack
 
 <div align="center">
 
