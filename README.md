@@ -178,7 +178,7 @@ For now, I'm focusing on building strong foundations in **programming, algorithm
 
 ---
 
-#🚀 Projects
+# 🚀 Projects
 
 <table align="center">
 <tr>
