@@ -18,7 +18,7 @@
 
 ---
 
-# 👩🏻‍💻 About Me
+# 👩🏻‍💻 About Me!
 
 I'm a **Computer Science undergraduate** with a strong pull toward problems at the intersection of **Artificial Intelligence, software development, data, and problem solving**.
 
