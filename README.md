@@ -122,26 +122,17 @@ A task-management application focused on organizing everyday tasks through a sim
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyaa-sh28&theme=monokai" width="100%" alt="GitHub profile summary"/>
+  <img
+    src="https://stats.hyo.dev/api/github-stats-advanced?login=navyaa-sh28"
+    width="100%"
+    alt="Navya's GitHub Stats"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=true&bg_color=2B1B14&title_color=D2B48C&text_color=FFF4E6&icon_color=A47750&ring_color=D2B48C" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=true&bg_color=2B1B14&title_color=D2B48C&text_color=FFF4E6" height="170" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=navyaa-sh28&hide_border=true&background=2B1B14&ring=D2B48C&fire=A47750&currStreakLabel=D2B48C&sideLabels=FFF4E6&dates=C19A6B&currStreakNum=FFF4E6&sideNums=FFF4E6" width="75%" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <i>Every commit is a little step forward. 🌱</i>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
