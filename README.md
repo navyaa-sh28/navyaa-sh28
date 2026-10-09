@@ -126,11 +126,7 @@ A task-management application focused on organizing everyday tasks through a sim
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://stats.hyo.dev/api/github-stats-advanced?login=navyaa-sh28"
-    width="100%"
-    alt="Navya's GitHub Stats"
-  />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=navyaa-sh28" width="400" alt="GitHub Analytics"/>
 </p>
 
 
