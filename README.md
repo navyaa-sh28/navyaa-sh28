@@ -192,5 +192,9 @@ Currently strengthening my understanding of **DSA, algorithmic thinking, and eff
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B14,40:5A3825,75:8B5E3C,100:C19A6B&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1F140F,25:3B261C,50:68452F,75:A47750,100:D2B48C&height=160&section=footer&width=100%25"
+    width="100%"
+    alt="Footer"
+  />
 </p>
