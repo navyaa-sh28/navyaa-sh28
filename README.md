@@ -3,10 +3,15 @@
 <!--                    NAVYA SHUKLA                        -->
 
 <!-- ====================================================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B14,40:5A3825,75:8B5E3C,100:C19A6B&height=180&section=header&text=Navya%20Shukla&fontSize=46&fontColor=F5E6D3&animation=fadeIn&fontAlignY=38"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1F140F,25:3B261C,50:68452F,75:A47750,100:D2B48C&height=220&section=header&text=Navya%20Shukla&fontSize=50&fontColor=FFF4E6&fontAlignY=38&animation=fadeIn&width=100%25"
+    width="100%"
+    alt="Navya Shukla"
+  />
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=25&pause=1000&color=C19A6B&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;C%2B%2B+%7C+Python+%7C+AI%2FML;Data+Analysis+%7C+Problem+Solving;Learning+%E2%80%A2+Building+%E2%80%A2+Exploring"/>
