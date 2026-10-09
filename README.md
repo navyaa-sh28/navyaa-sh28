@@ -30,12 +30,6 @@ Competitive programming keeps me sharp on those fundamentals. I regularly practi
 
 At the same time, I learn best by **building**. Projects and hackathons give me a chance to take concepts beyond tutorials and turn them into working systems while learning how to deal with bugs, constraints, imperfect ideas, and real implementation decisions.
 
-I'm particularly interested in the intersection of **AI and real-world systems** — especially problems where data is noisy, changing, or difficult to interpret.
-
-I'm also gradually exploring **space technology** and the possibilities created when computing, AI, and data meet scientific and engineering problems. I'm still building my understanding of the domain, but areas such as forecasting, remote sensing, scientific data analysis, and intelligent systems genuinely interest me.
-
-My goal isn't to learn every technology at once. It's to build strong fundamentals, develop practical skills, and gradually work toward solving increasingly meaningful problems.
-
 ---
 
 # 🧭 Areas I'm Exploring
@@ -423,25 +417,6 @@ Being part of the **SheFi Season 17 cohort** has introduced me to Web3 and decen
 
 ---
 
-# 🌐 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/navya_shukla45/">
-<img src="https://img.shields.io/badge/LeetCode-3B2418?style=for-the-badge&logo=leetcode&logoColor=F5E6D3"/>
-</a>
-
-<a href="https://www.codechef.com/users/rapid_truth_18">
-<img src="https://img.shields.io/badge/CodeChef-3B2418?style=for-the-badge&logo=codechef&logoColor=F5E6D3"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">
-<img src="https://img.shields.io/badge/GeeksforGeeks-3B2418?style=for-the-badge&logo=geeksforgeeks&logoColor=F5E6D3"/>
-</a>
-
-</p>
-
----
 
 # 🤎 Connect With Me
 
