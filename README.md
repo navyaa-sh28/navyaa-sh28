@@ -157,7 +157,7 @@ A task-management application focused on organizing everyday tasks through a sim
 ---
 
 <p align="center">
-  <b>Thanks for stopping by! 🤎</b>
+  <b>Thanks for stopping by! 🤎 </b>
   <br/>
   <i>Keep learning. Keep building. Keep exploring. ✨</i>
 </p>
