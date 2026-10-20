@@ -14,7 +14,7 @@
 
 ---
 
-## 🤎 About Me
+## 🤎About Me
 
 Hey there! 👋 I'm a **Computer Science undergraduate at ABES Engineering College**, exploring software development, data, and intelligent systems.
 
