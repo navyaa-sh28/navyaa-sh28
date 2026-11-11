@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=22&pause=1000&color=A47750&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+AI%2FML+%F0%9F%A4%8E;Turning+Data+Into+Insights+%F0%9F%93%8A;Learning+%E2%80%A2+Building+%E2%80%A2+Exploring+%F0%9F%9A%80" alt="Introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=22&pause=1000&color=A47750&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+AI%2FML+%F0%9F%A4%8E;Turning+Data+Into+Insights+%F0%9F%93%8A;Learning+%E2%80%A2+Building+%E2%80%A2+Exploring+%F0%9F%8C%8C" alt="Introduction"/>
 </p>
 
 <p align="center">
@@ -71,6 +71,32 @@ A task-management application focused on organizing everyday tasks through a sim
 🔗 [View Repository](https://github.com/navyaa-sh28/TodoFlow)
 
 🌐 [Try Live Demo](https://todo-flow-lemon.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ VERITY
+
+An evidence-first platform that checks brand content claims against trusted evidence and helps teams review and govern content before publication.
+
+**Tech Stack:** Next.js, React, Tailwind CSS, Python, FastAPI, Supabase, Gemini
+
+🔗 [View Repository](https://github.com/navyaa-sh28/VERITY)
+
+🌐 [Try Live Demo](https://verity-rho-self.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔊 SoundSlate
+
+An accessibility-focused web app that turns charts, diagrams, and handwritten notes into structured spoken descriptions, with support for follow-up questions.
+
+**Tech Stack:** Python, FastAPI, Gemini, HTML, CSS, JavaScript, Web Speech API
+
+🔗 [View Repository](https://github.com/navyaa-sh28/SoundSlate)
 
 </td>
 </tr>
