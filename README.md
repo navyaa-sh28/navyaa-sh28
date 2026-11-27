@@ -1,7 +1,7 @@
 #  Navya Shukla
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A6A6,50:F8C4B4,100:FFE2D6&height=135&section=header&text=Navya%20Shukla&fontSize=38&fontColor=743F46&fontAlignY=55" width="100%" alt="Navya Shukla"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A6A6,50:F8C4B4,100:FFE2D6&height=135&section=header&text=Navya%20Shukla&fontSize=38&fontColor=743F46&fontAlignY=55&stroke=FFF0E8&strokeWidth=2" width="100%" alt="Navya Shukla"/>
 </p>
 
 <p align="center">
@@ -44,22 +44,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=true&bg_color=FFF7F3&title_color=C96F78&icon_color=E9A0A5&text_color=743F46&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=true&bg_color=FFF7F3&title_color=C96F78&text_color=743F46" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=true&bg_color=3D252A&title_color=F8C4B4&icon_color=F4A6A6&text_color=FFE2D6&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=true&bg_color=3D252A&title_color=F8C4B4&text_color=FFE2D6" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=true&background=FFF7F3&ring=C96F78&fire=E9A0A5&currStreakLabel=743F46&sideLabels=743F46&currStreakNum=C96F78&sideNums=C96F78&dates=AA8585" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=true&background=3D252A&ring=F4A6A6&fire=F8C4B4&currStreakLabel=FFE2D6&sideLabels=FFE2D6&currStreakNum=F8C4B4&sideNums=F8C4B4&dates=D9A6A6" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/navyaa-sh28">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/navya-shukla-94565b356">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/navya_shukla45/">LeetCode</a> ·
-  <a href="https://www.codechef.com/users/rapid_truth_18">CodeChef</a> ·
-  <a href="https://www.geeksforgeeks.org/profile/navyaashuwavk">GeeksforGeeks</a>
-</p>
-
+```
 <p align="center">
   <sub>Made with ♡</sub>
 </p>
