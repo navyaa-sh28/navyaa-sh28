@@ -55,18 +55,27 @@
   <img src="https://img.shields.io/badge/FastAPI-FFF0E8?style=flat-square&logo=fastapi&logoColor=B85C68" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Supabase-FFF0E8?style=flat-square&logo=supabase&logoColor=B85C68" alt="Supabase"/>
 </p>
-```
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=false&border_color=E8A0A0&bg_color=FFF0E8&title_color=8B3A4A&icon_color=C96F78&text_color=8B3A4A&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=false&border_color=E8A0A0&bg_color=FFF0E8&title_color=8B3A4A&text_color=8B3A4A" height="165" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=false&border_color=E8A0A0&bg_color=00000000&title_color=F4A6A6&icon_color=F4A6A6&text_color=FFE2D6&rank_icon=github"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=false&border_color=E8A0A0&bg_color=00000000&title_color=8B3A4A&icon_color=C96F78&text_color=6B3A45&rank_icon=github" height="165" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=false&border_color=E8A0A0&bg_color=00000000&title_color=F4A6A6&text_color=FFE2D6"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=false&border_color=E8A0A0&bg_color=00000000&title_color=8B3A4A&text_color=6B3A45" height="165" alt="Top Languages"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=false&border=E8A0A0&background=FFF0E8&ring=C96F78&fire=C96F78&currStreakLabel=8B3A4A&sideLabels=8B3A4A&currStreakNum=8B3A4A&sideNums=8B3A4A&dates=8B3A4A" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=false&border=E8A0A0&background=00000000&ring=F4A6A6&fire=F4A6A6&currStreakLabel=FFE2D6&sideLabels=FFE2D6&currStreakNum=F4A6A6&sideNums=FFE2D6&dates=FFE2D6"/>
+    <img src="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=false&border=E8A0A0&background=00000000&ring=C96F78&fire=C96F78&currStreakLabel=8B3A4A&sideLabels=6B3A45&currStreakNum=C96F78&sideNums=6B3A45&dates=8B3A4A" alt="GitHub Streak"/>
+  </picture>
 </p>
-```
+
 <p align="center">
   <sub>Made with ♡</sub>
 </p>
