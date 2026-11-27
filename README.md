@@ -56,16 +56,15 @@
   <img src="https://img.shields.io/badge/Supabase-FFF0E8?style=flat-square&logo=supabase&logoColor=B85C68" alt="Supabase"/>
 </p>
 ```
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=false&border_color=E8A0A0&bg_color=00000000&title_color=C96F78&icon_color=E8A0A0&text_color=auto&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=false&border_color=E8A0A0&bg_color=00000000&title_color=C96F78&text_color=auto" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=navyaa-sh28&show_icons=true&hide_border=false&border_color=E8A0A0&bg_color=FFF0E8&title_color=8B3A4A&icon_color=C96F78&text_color=8B3A4A&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaa-sh28&layout=compact&hide_border=false&border_color=E8A0A0&bg_color=FFF0E8&title_color=8B3A4A&text_color=8B3A4A" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=false&border=E8A0A0&background=00000000&ring=E8A0A0&fire=C96F78&currStreakLabel=C96F78&sideLabels=auto&currStreakNum=E8A0A0&sideNums=auto&dates=auto" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=navyaa-sh28&hide_border=false&border=E8A0A0&background=FFF0E8&ring=C96F78&fire=C96F78&currStreakLabel=8B3A4A&sideLabels=8B3A4A&currStreakNum=8B3A4A&sideNums=8B3A4A&dates=8B3A4A" alt="GitHub Streak"/>
 </p>
 ```
 <p align="center">
