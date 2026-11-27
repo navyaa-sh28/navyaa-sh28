@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧸 VERITY</h3>
+      <h3>✅ VERITY</h3>
       <p>An evidence-first platform for verifying brand content claims before publication.</p>
       <p><sub>Next.js · Python · FastAPI · Supabase · Gemini</sub></p>
       <a href="https://github.com/navyaa-sh28/VERITY">Repository</a> · <a href="https://verity-rho-self.vercel.app/">Live Demo</a>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-##  Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,git,github,vscode&theme=light" alt="Tech Stack"/>
