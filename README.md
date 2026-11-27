@@ -1,5 +1,3 @@
-#  Navya Shukla
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A6A6,50:F8C4B4,100:FFE2D6&height=135&section=header&text=Navya%20Shukla&fontSize=38&fontColor=743F46&fontAlignY=55&stroke=FFF0E8&strokeWidth=2" width="100%" alt="Navya Shukla"/>
 </p>
